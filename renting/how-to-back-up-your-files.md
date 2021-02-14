@@ -1,6 +1,6 @@
 # How to back up and restore your files
 
-Back in version 1.4.1 of Uplo, we introduced seed-based file recovery. This feature lets you create a metadata snapshot of your current files, which is stored on the Uplo network and linked to your seed. As long as your contracts are active, you can then use this backup to restore your files at any future date and from any \(preferably empty\) Uplo node.
+With the initial release of Uplo, we will have seed-based file recovery. This feature lets you create a metadata snapshot of your current files, which is stored on the Uplo network and linked to your seed. As long as your contracts are active, you can then use this backup to restore your files at any future date and from any \(preferably empty\) Uplo node.
 
 When your files are on Uplo, they're on the most private, secure network in the world. With seed-based file recovery, they're now also recoverable anywhere, anytime.
 
