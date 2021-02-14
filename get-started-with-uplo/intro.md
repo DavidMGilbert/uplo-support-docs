@@ -6,7 +6,7 @@ This marks the second major redo in our documentation history, bringing us to ve
 
 The first move came back in 2018, when we moved to [HelpDocs](https://www.helpdocs.io).
 
-![](../.gitbook/assets/uplo-support-v2.png)
+![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplo-support-v2.png)
 
 HelpDocs was great, and I highly recommend it if you need a simple and flexible knowledge base. It served over a million article views for us during its time in use and provided a high level of support for our community.
 
@@ -32,7 +32,7 @@ Once you make your changes, scroll down to the bottom. Add a title to your edits
 
 ![](../.gitbook/assets/intro-3.png)
 
-This sends it to us. It won't be live right away – we have to review and approve your edits first. But this gives the community an incredible way to contribute to Uplo documentation.
+This sends it to us. It won't be live right away – we have to review and approve your edits first. But this gives the community an incredible way to contribute to Uplo documentation.
 
 ## A comprehensive source of Uplo information
 

@@ -8,7 +8,7 @@ description: >-
 
 ## Why Mine?
 
-When you mine on a cryptocurrency network, you are contributing computing power to help process and verify transactions on that network. On the Uplo network, the blockchain contains not just UploCoin transactions, but also the smart file contracts between [renters](../renting/about-renting.md) and [hosts](../hosting/about-hosting-on-uplo.md). Miners are the backbone of the network, verifying the integrity of the blockchain. On Uplo, miners are rewarded with UploCoins for their service.
+When you mine on a cryptocurrency network, you are contributing computing power to help process and verify transactions on that network. On the Uplo network, the blockchain contains not just UploCoin transactions, but also the smart file contracts between [renters](../renting/about-renting.md) and [hosts](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/hosting/about-hosting-on-uplo.md). Miners are the backbone of the network, verifying the integrity of the blockchain. On Uplo, miners are rewarded with UploCoins for their service.
 
 ## The Block Reward
 

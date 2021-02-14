@@ -23,7 +23,9 @@ Uplo’s core goal is to bring decentralization to data storage. We want you to 
 
 ## Who makes Uplo?
 
-Uplo was conceived at HackMIT in 2013 by David Vorick and Luke Champine. Over time, the crew has grown into the US and EU-based Nebulous team, the core developers of Uplo.
+Uplo is an adaptation of another de-centralised storage blockchain aimed at providing a simpler and more intuitive interface for everyday computer users.
+
+Maintained and worked on by David Gilbert of Purpyl Media in Australia, the core principle of Uplo is to create a robust world wide network of de-centralised hosts where by everyday pc users can safely, securely and anonymously create backups and store their personal data without fear of hackers, or third parties gaining access to their data, traditionally stored in a centralised data centre.
 
 ## Community contribution
 
@@ -44,14 +46,4 @@ When you upload files to Uplo, you become a **renter**. You upload files to othe
 You also earn UploCoin, the cryptocurrency that powers the Uplo network. UploCoin can be used to purchase your own storage space, or converted to other cryptocurrency or fiat on crypto exchanges.
 
 Hosts are a critical part of the ecosystem. You are contributing to the decentralized network that is the heart of Uplo.
-
-## **Quick Resources**
-
-[Discord](https://discord.gg/uplo)
-
-[YouTube](http://youtube.com/c/uplotvofficial)
-
-[Reddit](http://reddit.com/r/uplocoin/)
-
-\*\*\*\*
 

@@ -76,7 +76,7 @@
 
 * [Listing UploCoin on your exchange](uplo-integrations/listing-uplocoin-on-your-exchange.md)
 * [Using the Uplo Ledger Nano S app](uplo-integrations/using-the-uplo-ledger-nano-s-app.md)
-* [Brand guidelines for Uplo in your project or site](uplo-integrations/uplo-brand-guidelines.md)
+* [Brand guidelines for Uplo in your project or site](uplo-integrations/brand-guidelines-for-uplo-in-your-project-or-site.md)
 
 ## Forks
 

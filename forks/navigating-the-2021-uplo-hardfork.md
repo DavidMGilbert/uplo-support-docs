@@ -100,7 +100,7 @@ The second column will have three values:
 
 ## For Ledger Nano S users
 
-You'll need to update your app, but you should do it after the hardfork activates. Updating before the fork will your signatures won't be valid. Use [Ledger Live](../uplo-integrations/using-the-uplo-ledger-nano-s-app.md#install_the_uplo_ledger_nano_s_app) in Developer mode to find and update the UploCoin app.
+You'll need to update your app, but you should do it after the hardfork activates. Updating before the fork will your signatures won't be valid. Use [Ledger Live](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/uplo-integrations/using-the-uplo-ledger-nano-s-app.md#install_the_uplo_ledger_nano_s_app) in Developer mode to find and update the UploCoin app.
 
 ## For SiaStream users
 

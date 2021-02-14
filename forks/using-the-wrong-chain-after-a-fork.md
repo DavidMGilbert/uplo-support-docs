@@ -6,7 +6,7 @@ When a blockchain hardforks, a new version of the blockchain is created while th
 
 For example, [Uplo is forking](navigating-the-2021-uplo-hardfork.md) around February 3rd, 2021. When Uplo forks, it will occur at block 298,000 and means that we now have a new chain that the Uplo team will be supporting. There's also the non-fork chain that can be maintained by a separate group if they want. Here's a visual representation of the upcoming Uplo fork.
 
-![](../.gitbook/assets/uplo-fork-path-2021.png)
+![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplo-fork-path-2021.png)
 
 ## What this means for users
 
