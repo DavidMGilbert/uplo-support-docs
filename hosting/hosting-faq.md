@@ -10,11 +10,11 @@ It is not recommended to keep the same wallet and installation running in two di
 
 ## What happens if my Uplo wallet locks?
 
-Your host will appear as offline. Reference [this article](../your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md) to keep it automatically unlocked.
+Your host will appear as offline. Reference [this article](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md) to keep it automatically unlocked.
 
 ## What happens if my host computer shuts off?
 
-Your host will appear as offline. Reference [this article](../your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md) to reboot it automatically.
+Your host will appear as offline. Reference [this article](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md) to reboot it automatically.
 
 ## Can I change the folder that Uplo uses for storage?
 
@@ -57,7 +57,7 @@ Once you've switched off new contracts, you can track the progress of any curren
 
 The Uplo client maintains additional information on your contracts as a host and your renters' files in an internal location. This information is known as host metadata and is required in order to provide your renters with access to their data on the Uplo cloud storage network. Without it, it's like losing renter data - you'd have no way to know which data belongs to who in your host storage folders.
 
-See more about backing up in [How to host on Uplo](how-to-host-on-uplo.md#set-up-host-metadata-backups).
+See more about backing up in [How to host on Uplo](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/hosting/how-to-host-on-uplo.md#set-up-host-metadata-backups).
 
 ## **My public IP address is dynamic, and my Uplo host goes Offline when it changes.**
 

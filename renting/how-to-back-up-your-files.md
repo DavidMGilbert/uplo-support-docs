@@ -14,7 +14,7 @@ Your contracts need to be active, which means Uplo isn't totally fire-and-forget
 
 ### **Create your backup**
 
-After you've [uploaded files to Uplo](how-to-rent-storage-on-uplo.md), go to the Rent tab and click **More**. You've got two new options, Backup Files and Restore Files. Click **Backup Files**.
+After you've [uploaded files to Uplo](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/renting/how-to-rent-storage-on-uplo.md), go to the Rent tab and click **More**. You've got two new options, Backup Files and Restore Files. Click **Backup Files**.
 
 ![](../.gitbook/assets/backup-1.png)
 
