@@ -4,12 +4,12 @@
 
 ## Things you'll need
 
-* Uplo installed on your computer
-* A Uplo wallet set up
-* UploCoins, the cryptocurrency used to buy and sell storage
+* Sia installed on your computer
+* A Sia wallet set up
+* Siacoins, the cryptocurrency used to buy and sell storage
 
 {% hint style="warning" %}
-This process generates a new wallet with a new Uplo seed. This is not recommended if you currently have UploCoins in your wallet, unless you've already forgotten your Uplo seed. Any UploCoins in your current wallet will no longer be accessible unless you have your previous seed and restore from it.
+This process generates a new wallet with a new Sia seed. This is not recommended if you currently have Siacoins in your wallet, unless you've already forgotten your Sia seed. Any Siacoins in your current wallet will no longer be accessible unless you have your previous seed and restore from it.
 {% endhint %}
 
 ## Deleting your wallet and starting over
@@ -23,5 +23,5 @@ There are two dashes before the word `force`.
 
 This will immediately erase your old wallet and create a new one. You will also see your new seed instantly in the Terminal window. [Make sure you safely store your new seed](../the-importance-of-your-seed.md).
 
-Go back to the Wallet tab, and use the new seed to unlock your wallet. Since this is a brand new wallet, your UploCoin balance will be 0 SC. Enjoy your new wallet!
+Go back to the Wallet tab, and use the new seed to unlock your wallet. Since this is a brand new wallet, your Siacoin balance will be 0 SC. Enjoy your new wallet!
 

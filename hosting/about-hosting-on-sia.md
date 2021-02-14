@@ -1,16 +1,16 @@
 ---
 description: >-
   Learn about the concepts and terms you'll need to be familiar with to host on
-  the Uplo network.
+  the Sia network.
 ---
 
-# About hosting on Uplo
+# About hosting on Sia
 
-**Hosting** means you are contributing your excess storage space to the Uplo network. You're helping to keep data where it belongs – safely in the hands of those who uploaded it, the **renters**.
+**Hosting** means you are contributing your excess storage space to the Sia network. You're helping to keep data where it belongs – safely in the hands of those who uploaded it, the **renters**.
 
-You also earn UploCoins, the cryptocurrency that powers the Uplo network. UploCoins can be used to purchase your own storage space, or converted to other cryptocurrency or fiat on crypto exchanges.
+You also earn Siacoins, the cryptocurrency that powers the Sia network. Siacoins can be used to purchase your own storage space, or converted to other cryptocurrency or fiat on crypto exchanges.
 
-Hosts are a critical part of the ecosystem. You are contributing to the decentralized network that is the heart of Uplo. Hosting is also more technical a process than renting, and while anyone can fairly easily set it up, there's a lot you'll want to know to maximize your setup.
+Hosts are a critical part of the ecosystem. You are contributing to the decentralized network that is the heart of Sia. Hosting is also more technical a process than renting, and while anyone can fairly easily set it up, there's a lot you'll want to know to maximize your setup.
 
 ## Pricing
 
@@ -19,21 +19,21 @@ As a host, you set your own prices. There's a lot of specific price points you c
 * **Storage Price:** The base price for your storage, per TB/month. 
 * **Contract Fees:** A small, one-time fee per contract to cover network transaction costs. 
 * **Upload/Download Bandwidth Price:** Your price for upload or download bandwidth to and from your host, per TB. 
-* **Collateral:** How many UploCoins you're willing to lose if you don't fulfill the rental contract, per TB.
+* **Collateral:** How many Siacoins you're willing to lose if you don't fulfill the rental contract, per TB.
 
 ## **About Contracts**
 
-Storage contracts are one of the most important features of the Uplo network. They are what allow the entire Uplo ecosystem to work in a trustless way – they form blockchain-enforced contracts between you and the people who rent your storage space that are automatically fulfilled.
+Storage contracts are one of the most important features of the Sia network. They are what allow the entire Sia ecosystem to work in a trustless way – they form blockchain-enforced contracts between you and the people who rent your storage space that are automatically fulfilled.
 
-## Earn UploCoins
+## Earn Siacoins
 
 As a host, you're part of a marketplace where you compete with other hosts for renter contracts. Competition should drive prices down, and demand should drive prices up. The goal is a market where people can upload their data with maximum security, minimum cost, and at fair rates that provide revenue to the hosts.
 
 ## Fees
 
-As a host, you earn UploCoin for the storage space that you sell. But in order to create additional incentive for hosts to be good hosts and sustain a reliable network, you also put up collateral.
+As a host, you earn Siacoin for the storage space that you sell. But in order to create additional incentive for hosts to be good hosts and sustain a reliable network, you also put up collateral.
 
-* **Collateral** – An amount of UploCoins that you're willing to lose if you aren't a good host.
+* **Collateral** – An amount of Siacoins that you're willing to lose if you aren't a good host.
 
 Having collateral incentivizes hosts to be online and to keep their renter data intact. Hosts that go offline or lose data lose their collateral, and hosts that stay online and keep data safe get their collateral back.
 
@@ -41,7 +41,7 @@ Having collateral incentivizes hosts to be online and to keep their renter data 
 
 One of the most important factors that determine how you'll fair as a host is your host score. This is based on a number of metrics – some that you can directly affect, some that improve or diminish over time based on your performance.
 
-Uplo is a decentralized network - the code to evaluate these scoring metrics is contained within each renter's Uplo instance. For that reason, each Uplo renter you encounter builds their own host score for your host, so your host may be scored differently among different renters. Your host does not have one single overall score across the Uplo network, but instead many scores with many renters based on the metrics described below. Any website or service showing your Uplo host rank is showing that particular source's view of your host, which may be different from what a renter comes up with.
+Sia is a decentralized network - the code to evaluate these scoring metrics is contained within each renter's Sia instance. For that reason, each Sia renter you encounter builds their own host score for your host, so your host may be scored differently among different renters. Your host does not have one single overall score across the Sia network, but instead many scores with many renters based on the metrics described below. Any website or service showing your Sia host rank is showing that particular source's view of your host, which may be different from what a renter comes up with.
 
 ### Specific Metrics
 
@@ -49,7 +49,7 @@ Uplo is a decentralized network - the code to evaluate these scoring metrics is 
 {% tab title="Host Uptime" %}
 Host uptime is an incredibly important metric. You need to be online when people try to get their data, and since that might be anytime, you should be online all the time. You're allowed a small amount of downtime in order to address minor maintenance issues like restarting for updates, which amounts to approximately 14 hours per month.
 
-In general, you should plan for your hosting computer to be turned on and online 24/7. If you can't commit to this, you shouldn't try to host on the Uplo network.
+In general, you should plan for your hosting computer to be turned on and online 24/7. If you can't commit to this, you shouldn't try to host on the Sia network.
 
 {% hint style="danger" %}
 Warning: If you go offline for too long \(less than 95% uptime\) or lose renter data \(by deleting it or experiencing a hardware failure\), you can lose money by losing your collateral for active contracts. You can also become responsible for SiaFund fees for each contract.
@@ -74,18 +74,18 @@ The price you set for your storage as a host is one of the biggest ways you can 
 
 There are a number of other pricing factors you have to take into consideration as a host:
 
-* A **Contract Fee** is a one-time fee a renter pays in order to initiate a storage contract with you. It's intended to cover transaction fees on the Uplo network related to the creation of the contract and receiving payments as a host. This is normally set for you automatically, but it can be changed via the Terminal/command line. If you change it, you generally don't want to set this more than about 5 SC, as these costs are very low. 
-* **Bandwidth Price** can be set on a basis of SC per Terabyte transferred to/from your host. One price can be set for both upload and download bandwidth via the Uplo-UI, or different upload/download prices can be set individually via the Terminal/command line. It's suggested that you price your upload and download bandwidth in relation to your internet connection capabilities. If you have a fast connection such as gigabit fiber, you can price these items very low because a user transferring several Terabytes doesn't impact you very much. If you have a slow connection or data caps, you may want to consider a higher bandwidth price, though this may deter renters. 
-* Fees related to **Sector Access** and **RPC** are protections against malicious renters which may be trying to abuse hosts by accessing host resources without paying for uploading or downloading. These fees are capped at 1% of the cost to download a file, but some services which use Uplo for storage may ignore your host if you set these fees to anything. 
+* A **Contract Fee** is a one-time fee a renter pays in order to initiate a storage contract with you. It's intended to cover transaction fees on the Sia network related to the creation of the contract and receiving payments as a host. This is normally set for you automatically, but it can be changed via the Terminal/command line. If you change it, you generally don't want to set this more than about 5 SC, as these costs are very low. 
+* **Bandwidth Price** can be set on a basis of SC per Terabyte transferred to/from your host. One price can be set for both upload and download bandwidth via the Sia-UI, or different upload/download prices can be set individually via the Terminal/command line. It's suggested that you price your upload and download bandwidth in relation to your internet connection capabilities. If you have a fast connection such as gigabit fiber, you can price these items very low because a user transferring several Terabytes doesn't impact you very much. If you have a slow connection or data caps, you may want to consider a higher bandwidth price, though this may deter renters. 
+* Fees related to **Sector Access** and **RPC** are protections against malicious renters which may be trying to abuse hosts by accessing host resources without paying for uploading or downloading. These fees are capped at 1% of the cost to download a file, but some services which use Sia for storage may ignore your host if you set these fees to anything. 
 {% endtab %}
 
 {% tab title="Collateral" %}
-This is how many UploCoins you're willing to lose if you don't fulfill the rental contract, per TB. It's a guarantee to your renters that you will be online through the storage contract, and that you'll have their data intact at the end of the contract. As a host, this is why you need UploCoins to start hosting. If you go offline for too long or lose renter data, you risk losing your collateral.
+This is how many Siacoins you're willing to lose if you don't fulfill the rental contract, per TB. It's a guarantee to your renters that you will be online through the storage contract, and that you'll have their data intact at the end of the contract. As a host, this is why you need Siacoins to start hosting. If you go offline for too long or lose renter data, you risk losing your collateral.
 
 You should normally set your collateral to around **2-3x your base storage price** as a starting point in order to maximize your host score in this area. For example, if you've priced your storage at 50 SC/TB, you should set your collateral at 100-150 SC/TB.
 
 * If you set your collateral **too low**, your host score will be reduced, because renters will have no reason to trust you as a host if you have little or nothing to lose by going offline. 
-* If you set your collateral **too high**, this can also decrease your host score. Renters pay a fee based on a percentage of your collateral that goes towards [UploFunds](../uplofunds/what-are-uplofunds.md) - if your collateral is set very high, the fee a renter pays as a result will be very high, which can decrease your host score. 
+* If you set your collateral **too high**, this can also decrease your host score. Renters pay a fee based on a percentage of your collateral that goes towards [Siafunds](../siafunds/what-are-siafunds.md) - if your collateral is set very high, the fee a renter pays as a result will be very high, which can decrease your host score. 
 
 #### Monitoring Your Collateral
 
@@ -123,21 +123,21 @@ Once you've been online for about six weeks, about half of the default contract 
 {% endtab %}
 
 {% tab title="Interaction Weight" %}
-Interaction weight is a metric measured between your host and each renter on the Uplo network. For example, if a renter tries to contact your host and you're frequently offline or don't have your wallet unlocked \(a pre-requisite to your host being online\), your interaction score will decrease with that renter. Again, this score is unique for each renter you encounter - it will be different for each individual renter on the Uplo network.
+Interaction weight is a metric measured between your host and each renter on the Sia network. For example, if a renter tries to contact your host and you're frequently offline or don't have your wallet unlocked \(a pre-requisite to your host being online\), your interaction score will decrease with that renter. Again, this score is unique for each renter you encounter - it will be different for each individual renter on the Sia network.
 
 Keeping your host online and your wallet unlocked while hosting will keep this score as high as possible.
 {% endtab %}
 
 {% tab title="Version Adjustment" %}
-Stay updated. Your host score drops if you're not running the latest version of the Uplo client. Uplo is constantly under development, and bug fixes and new features are pushed out on a somewhat regular basis. If you're running an older version of the client, your renters may not be able to take advantage of all the latest features of Uplo until you upgrade.
+Stay updated. Your host score drops if you're not running the latest version of the Sia client. Sia is constantly under development, and bug fixes and new features are pushed out on a somewhat regular basis. If you're running an older version of the client, your renters may not be able to take advantage of all the latest features of Sia until you upgrade.
 {% endtab %}
 {% endtabs %}
 
 ## Third-Party Host Scoring
 
-We have an incredible community building on Uplo. Third-party sites can develop their own methods for scoring hosts based on various metrics. For example, SiaStats has developed a [Host Monitor](https://uplostats.info/hosts) which evaluates hosts on pricing relative to other hosts, and even evaluates host performance regularly by forming contracts with every host it can in order to test bandwidth and latency. SiaStats even has great visualization for each host to make judging their metrics easier.
+We have an incredible community building on Sia. Third-party sites can develop their own methods for scoring hosts based on various metrics. For example, SiaStats has developed a [Host Monitor](https://siastats.info/hosts) which evaluates hosts on pricing relative to other hosts, and even evaluates host performance regularly by forming contracts with every host it can in order to test bandwidth and latency. SiaStats even has great visualization for each host to make judging their metrics easier.
 
-These benchmarks are different from the core Uplo protocol, but are still useful, and may be used to help monitor and improve your own host over time.
+These benchmarks are different from the core Sia protocol, but are still useful, and may be used to help monitor and improve your own host over time.
 
 Once you've started hosting, you'll probably want to keep an eye on your host score and see how you might be able to improve your host ranking.
 

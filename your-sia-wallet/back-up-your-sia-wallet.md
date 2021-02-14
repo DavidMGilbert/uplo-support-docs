@@ -1,20 +1,20 @@
-# Back up your Uplo wallet
+# Back up your Sia wallet
 
 Keeping your digital assets safe is something you need to put thought into. Whether those digital assets are precious family photos or keys to your cryptocurrency wallets, you should store copies in multiple secure locations.
 
-This article will provide an overview of what you need to save in order to backup your UploCoin wallet, and provide some suggestions on how to go about doing it.
+This article will provide an overview of what you need to save in order to backup your Siacoin wallet, and provide some suggestions on how to go about doing it.
 
-## Your Uplo seed is your key
+## Your Sia seed is your key
 
-When you first create your wallet in Uplo, you are presented with your Uplo seed – a long string of words. This string of words must be stored safely.
+When you first create your wallet in Sia, you are presented with your Sia seed – a long string of words. This string of words must be stored safely.
 
-### About the Uplo seed
+### About the Sia seed
 
 * It’s 29 words... most of the time. There's a small chance you'll get a 28-word seed.
-* It's generated when you first make your UploCoin wallet.
-* As long as you have a copy of your 29-word seed, you can recover your UploCoins and your uploaded files, as long as you've backed up your metadata. Learn how to load a wallet from a seed \(WIP\).
+* It's generated when you first make your Siacoin wallet.
+* As long as you have a copy of your 29-word seed, you can recover your Siacoins and your uploaded files, as long as you've backed up your metadata. Learn how to load a wallet from a seed \(WIP\).
 
-## Backing up your Uplo wallet
+## Backing up your Sia wallet
 
 {% hint style="info" %}
 Because your seed is so important, you should have physical and digital methods of storing it safely.
@@ -47,5 +47,5 @@ This attitude applies to more than just digital content, but that's a bit beyond
 
 ## That's it
 
-Cryptocurrency assets should absolutely be considered when estate planning as well. If you're holding long term, make sure your UploCoin balance is factored into your will, and that the person who receives it will know how to retrieve and use it. They'll need a copy of your seed, and instructions on how to restore that seed into a wallet.
+Cryptocurrency assets should absolutely be considered when estate planning as well. If you're holding long term, make sure your Siacoin balance is factored into your will, and that the person who receives it will know how to retrieve and use it. They'll need a copy of your seed, and instructions on how to restore that seed into a wallet.
 

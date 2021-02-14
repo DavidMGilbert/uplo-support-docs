@@ -1,28 +1,28 @@
-# Where can I learn more about Uplo?
+# Where can I learn more about Sia?
 
-Uplo has great resources and a thriving community that loves to help others.
+Sia has great resources and a thriving community that loves to help others.
 
-[Uplo Website](https://uplo.tech/)
+[Sia Website](https://sia.tech/)
 
-[Uplo 101 Infographic](https://uplostats.info/uplo101)
+[Sia 101 Infographic](https://siastats.info/sia101)
 
-[Support Center](http://support.uplo.tech/)
+[Support Center](http://support.sia.tech/)
 
-[Uplo Wiki](https://uplowiki.tech/)
+[Sia Wiki](https://siawiki.tech/)
 
-[SiaStats](http://uplostats.info/)
+[SiaStats](http://siastats.info/)
 
 ## Community and Social
 
-[Uplo Blog](https://blog.uplo.tech/)
+[Sia Blog](https://blog.sia.tech/)
 
-[The new Uplo forums](https://forum.uplo.tech/)
+[The new Sia forums](https://forum.sia.tech/)
 
-[Discord \(share the link!\)](https://discord.gg/uplo)
+[Discord \(share the link!\)](https://discord.gg/sia)
 
-[Twitter](https://twitter.com/uplotechhq)
+[Twitter](https://twitter.com/siatechhq)
 
-[Reddit](https://reddit.com/r/uplocoin)
+[Reddit](https://reddit.com/r/siacoin)
 
-[Github](https://github.com/uplo-tech)
+[GitLab](https://gitlab.com/nebulouslabs)
 

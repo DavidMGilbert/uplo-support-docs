@@ -1,8 +1,8 @@
-# How do I change my Uplo wallet password?
+# How do I change my Sia wallet password?
 
 ## Your seed vs a custom password
 
-By default, your 29 word Uplo seed is your Uplo-UI wallet password. But you can also set a custom password to unlock your wallet, and there are pros and cons to each. Let's take a look.
+By default, your 29 word Sia seed is your Sia-UI wallet password. But you can also set a custom password to unlock your wallet, and there are pros and cons to each. Let's take a look.
 
 {% hint style="warning" %}
 Even if you set a custom password, you still need to keep your seed safe. Learn about [the importance of your seed.](the-importance-of-your-seed.md)
@@ -10,9 +10,9 @@ Even if you set a custom password, you still need to keep your seed safe. Learn 
 
 ## Things you'll need
 
-Uplo-UI, downloaded and installed. &lt;link&gt;
+Sia-UI, downloaded and installed. &lt;link&gt;
 
-Your Uplo-UI wallet set up. &lt;link&gt;
+Your Sia-UI wallet set up. &lt;link&gt;
 
 ## Using a custom password
 
@@ -43,23 +43,23 @@ This means you set your wallet password to a totally custom phrase of any length
 {% hint style="danger" %}
 Disadvantages
 
-* Typing your seed in repeatedly makes you vulnerable to keylogging. Keylogging is when your keyboard input is recorded using malware or a physical device and then sent to a malicious party. If someone gets your seed, they can easily steal your UploCoins.
+* Typing your seed in repeatedly makes you vulnerable to keylogging. Keylogging is when your keyboard input is recorded using malware or a physical device and then sent to a malicious party. If someone gets your seed, they can easily steal your Siacoins.
 * Typing in 29 words every time you want to access your wallet might not be tolerable for you.
 {% endhint %}
 
 ## Setting a custom password
 
-Go to the Wallet tab in Uplo-UI.
+Go to the Wallet tab in Sia-UI.
 
 ![](../.gitbook/assets/send-1.png)
 
 Click **More** in the upper right corner.
 
-![](../.gitbook/assets/wallet-2%20%282%29%20%283%29.png)
+![](../.gitbook/assets/wallet-2%20%282%29%20%283%29%20%282%29.png)
 
-Click **Change Password.** Uplo-UI will ask for your current password. For current password, enter whatever you're using to unlock your wallet now. You can then enter your custom password.
+Click **Change Password.** Sia-UI will ask for your current password. For current password, enter whatever you're using to unlock your wallet now. You can then enter your custom password.
 
 ![](../.gitbook/assets/password-2.png)
 
-That's it! You've changed your Uplo-UI password.
+That's it! You've changed your Sia-UI password.
 

@@ -1,22 +1,22 @@
-# Listing UploCoin on your exchange
+# Listing Siacoin on your exchange
 
-Uplo is one of the best projects in the blockchain space. Uplo is open source, and we believe completely in the spirit of decentralization. As such, exchanges should strive to implement the best projects that will enhance their platforms with little involvement from the development team for that project.
+Sia is one of the best projects in the blockchain space. Sia is open source, and we believe completely in the spirit of decentralization. As such, exchanges should strive to implement the best projects that will enhance their platforms with little involvement from the development team for that project.
 
-## Some background on UploCoin
+## Some background on Siacoin
 
-UploCoins are used for buying and selling storage space on the Uplo network. We believe that UploCoin is a pure utility token. UploCoins are generated only through Proof of Work mining, and there is no limit on the number of UploCoins that will be issued
+Siacoins are used for buying and selling storage space on the Sia network. We believe that Siacoin is a pure utility token. Siacoins are generated only through Proof of Work mining, and there is no limit on the number of Siacoins that will be issued
 
-## Download Uplo
+## Download Sia
 
-UploCoins are stored in a Uplo wallet. Our two official apps are Uplo-UI or uploc \(for command-line interfaces\). Only one instance of Uplo can run at a time, so you’ll need to install it on multiple machines or virtual environments if you’d like to run more than a single wallet.
+Siacoins are stored in a Sia wallet. Our two official apps are Sia-UI or siac \(for command-line interfaces\). Only one instance of Sia can run at a time, so you’ll need to install it on multiple machines or virtual environments if you’d like to run more than a single wallet.
 
-You can download the latest release [directly from Gitlab,](https://github.com/uplo-tech/uplo/tags) or [from our website](https://uplo.tech/get-started).
+You can download the latest release [directly from Gitlab,](https://gitlab.com/NebulousLabs/Sia/tags) or [from our website](https://sia.tech/get-started).
 
-Learn how to download and install Uplo-UI.
+Learn how to download and install Sia-UI.
 
-## Technical Specifications for Uplo
+## Technical Specifications for Sia
 
-* **CPU:** Uplo does not require special CPU considerations
+* **CPU:** Sia does not require special CPU considerations
 * **RAM:** 8 GB recommended
 * **SSD:** 40 GB recommended \(keep an eye on your consensus size!\)
 
@@ -26,15 +26,15 @@ No special libraries are required for installation.
 
 ## Review our API documentation
 
-[Uplo API docs](https://uplo.tech/docs/)
+[Sia API docs](https://sia.tech/docs/)
 
-## Setting up Uplo
+## Setting up Sia
 
-This is where you come in. Every platform is different, and your team can determine how best to integrate the UploCoin wallet. While we don’t provide dedicated technical support, our developers can provide assistance with your issues. See the "[Point of contact](listing-uplocoin-on-your-exchange.md#point-of-contact)" section at the bottom of the article.
+This is where you come in. Every platform is different, and your team can determine how best to integrate the Siacoin wallet. While we don’t provide dedicated technical support, our developers can provide assistance with your issues. See the "[Point of contact](listing-siacoin-on-your-exchange.md#point-of-contact)" section at the bottom of the article.
 
 In the meantime, here are some answers to questions we’ve received regarding wallet setup for exchanges.
 
-**IP Access Restriction.** IP access is restricted to localhost with user-agent "Uplo- Agent" required. We highly recommended keeping this as the default.
+**IP Access Restriction.** IP access is restricted to localhost with user-agent "Sia- Agent" required. We highly recommended keeping this as the default.
 
 **User Access Restriction.** Our API documentation has information on how to set up password authentication to access the API.
 
@@ -42,7 +42,7 @@ In the meantime, here are some answers to questions we’ve received regarding w
 
 **TLS/SSL Availability.** TLS/SSL is not currently available.
 
-**Transaction Fee.** The transaction fee is automatically set, but you can always get an estimated range via the API [https://github.com/NebulousLabs/Uplo/blob/master/](https://github.com/NebulousLabs/Uplo/blob/master/) doc/API.md\#tpoolfee-get
+**Transaction Fee.** The transaction fee is automatically set, but you can always get an estimated range via the API [https://github.com/NebulousLabs/Sia/blob/master/](https://github.com/NebulousLabs/Sia/blob/master/) doc/API.md\#tpoolfee-get
 
 **If the explorer returns incorrect info.** Instead of using the explorer, use the /consensus endpoints listed in the API documentation. These should get you the same info easily. We'll be working on the explorer soon.
 
@@ -50,27 +50,27 @@ In the meantime, here are some answers to questions we’ve received regarding w
 
 **Generating wallet addresses**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/API.md\#walletaddress-get](https://github.com/uplo-tech/uplo/blob/master/doc/API.md#walletaddress-get)
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md\#walletaddress-get](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md#walletaddress-get)
 
 **Getting transactions for an address**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/](https://github.com/uplo-tech/uplo/blob/master/doc/) API.md\#wallettransactionsaddr-get
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/) API.md\#wallettransactionsaddr-get
 
 **Sending to an address or set of addresses**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/API.md\#walletuplocoins-post](https://github.com/uplo-tech/uplo/blob/master/doc/API.md#walletuplocoins-post)
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md\#walletsiacoins-post](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md#walletsiacoins-post)
 
 **Unlocking the wallet**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/API.md\#walletunlock-post](https://github.com/uplo-tech/uplo/blob/master/doc/API.md#walletunlock-post)
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md\#walletunlock-post](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/API.md#walletunlock-post)
 
 **Verifying an address**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/](https://github.com/uplo-tech/uplo/blob/master/doc/) API.md\#walletverifyaddressaddr-get
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/) API.md\#walletverifyaddressaddr-get
 
 **Changing the wallet password**
 
-[https://github.com/uplo-tech/uplo/blob/master/doc/](https://github.com/uplo-tech/uplo/blob/master/doc/) API.md\#walletchangepassword—post
+[https://gitlab.com/NebulousLabs/Sia/blob/master/doc/](https://gitlab.com/NebulousLabs/Sia/blob/master/doc/) API.md\#walletchangepassword—post
 
 ## A note about fees
 
@@ -84,9 +84,9 @@ We don't participate in any type of community voting. Community votes typically 
 
 ## A legal opinion
 
-If your exchange requires an opinion regarding UploCoin's status as it relates to US securities law, you can [download our team's self-written opinion.](https://files.helpdocs.io/YzA4Zq3JuM/articles/4ubdozs16r/1531331962488/uplo-legal-opinion-self-written.pdf) If your team requires an opinion from a US-based law firm, send an email to the point of contact listed below.
+If your exchange requires an opinion regarding Siacoin's status as it relates to US securities law, you can [download our team's self-written opinion.](https://files.helpdocs.io/YzA4Zq3JuM/articles/4ubdozs16r/1531331962488/sia-legal-opinion-self-written.pdf) If your team requires an opinion from a US-based law firm, send an email to the point of contact listed below.
 
 ## Point of contact
 
-If you have any questions, [send an email to Steve](mailto:steve@uplo.tech). He runs our support channels and will get you in contact with our dev team.
+If you have any questions, [send an email to Steve](mailto:steve@sia.tech). He runs our support channels and will get you in contact with our dev team.
 

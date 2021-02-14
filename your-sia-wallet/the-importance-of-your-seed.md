@@ -1,21 +1,21 @@
 # The importance of your seed
 
-Your Uplo seed is your key to your UploCoin balance, and in the future, it will be the key to your files as well. It’s the most important piece of information in your Uplo experience.
+Your Sia seed is your key to your Siacoin balance, and in the future, it will be the key to your files as well. It’s the most important piece of information in your Sia experience.
 
 ## About the seed
 
 * It’s 29 words... most of the time. There's a small chance you'll get a 28-word seed.
-* It's generated when you first make your UploCoin wallet
+* It's generated when you first make your Siacoin wallet
 * It will also be your wallet password unless you set a custom password
-* If you have your correct seed, you can always recover your UploCoin balance.
+* If you have your correct seed, you can always recover your Siacoin balance.
 
 ### Loss
 
-If you lose your seed, your UploCoin balance will be permanently inaccessible. Because Uplo is truly decentralized, the Uplo dev team can’t access your seed at any time, for any reason.
+If you lose your seed, your Siacoin balance will be permanently inaccessible. Because Sia is truly decentralized, the Sia dev team can’t access your seed at any time, for any reason.
 
 ### Theft
 
-If someone steals your seed, they can easily steal your UploCoin balance. Be wary of giving any untrusted third party your seed.
+If someone steals your seed, they can easily steal your Siacoin balance. Be wary of giving any untrusted third party your seed.
 
 ### Keep it safe
 
@@ -34,11 +34,11 @@ Keep your seed in a password or biometric \(e.g. fingerprint\) secured app like 
 
 ## Make sure it's right
 
-Once you write it down, copy and paste it, or re-type it, make sure you've done so correctly. A single miswritten word or mistyped letter means the entire seed is incorrect, and can no longer be used to unlock your wallet or recover your UploCoin.
+Once you write it down, copy and paste it, or re-type it, make sure you've done so correctly. A single miswritten word or mistyped letter means the entire seed is incorrect, and can no longer be used to unlock your wallet or recover your Siacoin.
 
 ## Unlock your wallet
 
-Your seed is your private key to your UploCoin balance, and it can also be used to unlock your wallet. The default setting is for your seed to double as your wallet password, but you also have the ability to set a custom password if you’d like. Because your seed is so long, it can function as an effective line of defense against someone gaining unauthorized access to your wallet. This isn’t the whole picture though, and there are other things you should consider before deciding whether to use your seed or a custom password to get in and out of your UploCoin wallet.
+Your seed is your private key to your Siacoin balance, and it can also be used to unlock your wallet. The default setting is for your seed to double as your wallet password, but you also have the ability to set a custom password if you’d like. Because your seed is so long, it can function as an effective line of defense against someone gaining unauthorized access to your wallet. This isn’t the whole picture though, and there are other things you should consider before deciding whether to use your seed or a custom password to get in and out of your Siacoin wallet.
 
 ### Using your seed as your password
 
@@ -51,7 +51,7 @@ It would take modern technology trillions upon trillions of years to figure out 
 {% endhint %}
 
 {% hint style="danger" %}
-**Con:** Typing your seed in repeatedly makes you vulnerable to keylogging. Keylogging is when your keyboard input is recorded using malware or a physical device and then sent to a malicious party. If someone gets your seed, they can easily steal your UploCoin, as we noted earlier.
+**Con:** Typing your seed in repeatedly makes you vulnerable to keylogging. Keylogging is when your keyboard input is recorded using malware or a physical device and then sent to a malicious party. If someone gets your seed, they can easily steal your Siacoin, as we noted earlier.
 {% endhint %}
 
 ### Using a custom password
