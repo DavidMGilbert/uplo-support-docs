@@ -4,7 +4,6 @@
 
 ## Get Started with Uplo
 
-* [Introduction to these docs](get-started-with-uplo/intro.md)
 * [Uplo 101](get-started-with-uplo/uplo101.md)
 * [What are UploCoins?](get-started-with-uplo/what-are-uplocoins.md)
 * [How to buy UploCoins](get-started-with-uplo/how-to-buy-uplocoins.md)

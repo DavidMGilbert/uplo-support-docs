@@ -6,5 +6,5 @@ UploCoins are used in lots of ways but serve a single purpose – facilitating n
 
 You can send UploCoins to others, or receive them at your own wallet address. You can store them in our official software, or on a hardware or paper wallet. You can get UploCoins by having someone send them to you, buying them on an exchange, or mining them.
 
-New UploCoins are only made by mining. There's over 40 billion UploCoins out there right now, and that number will never stop growing. Uplo is going to be the storage layer of the internet, and billions will be required for the petabytes and exabytes of data that will be stored on Uplo.
+New UploCoins are only made by mining.  Uplo is going to be the storage layer of the internet, and billions of UploCoins will be required for the petabytes and exabytes of data that will be stored on Uplo.
 
