@@ -1,14 +1,14 @@
-# How can I contribute to Sia?
+# How can I contribute to Uplo?
 
-If you've got some dev skills and free time, Sia is here for you.
+If you've got some dev skills and free time, Uplo is here for you.
 
-Sia is 100% open source and development is held on GitLab. The US and EU-based Nebulous team have been the core developers of Sia, but hundreds of individuals have contributed either to the core code or apps built on top of the network. Sia is now managed by the Sia Foundation.
+Uplo is 100% open source and development is held on GitLab. The US and EU-based Nebulous team have been the core developers of Uplo, but hundreds of individuals have contributed either to the core code or apps built on top of the network. Uplo is now managed by the Uplo Foundation.
 
-We have a wonderful community, and we hope you'll find your place in it! Check the \#contributors channel in [Discord](https://discord.gg/sia) to say hi, ask questions, or get opinions on your Sia-related code or app.
+We have a wonderful community, and we hope you'll find your place in it! Check the \#contributors channel in [Discord](https://discord.gg/uplo) to say hi, ask questions, or get opinions on your Uplo-related code or app.
 
-[GitLab](https://gitlab.com/NebulousLabs/Sia) - view and contribute to all Sia development. Check our other repos too!
+[GitLab](https://github.com/uplo-tech/uplo) - view and contribute to all Uplo development. Check our other repos too!
 
-[Contributor's Guide](https://gitlab.com/NebulousLabs/Sia/blob/master/CONTRIBUTING.md) - get started with building on Sia
+[Contributor's Guide](https://github.com/uplo-tech/uplo/blob/master/CONTRIBUTING.md) - get started with building on Uplo
 
-[Sia's API](https://sia.tech/docs/) - check out our technical documentation
+[Uplo's API](https://uplo.tech/docs/) - check out our technical documentation
 

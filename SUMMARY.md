@@ -1,86 +1,86 @@
 # Table of contents
 
-* [Welcome to Sia!](README.md)
+* [Welcome to Uplo!](README.md)
 
-## Get Started with Sia
+## Get Started with Uplo
 
-* [Introduction to these docs](get-started-with-sia/intro.md)
-* [Sia 101](get-started-with-sia/sia101.md)
-* [What are Siacoins?](get-started-with-sia/what-are-siacoins.md)
-* [How to buy Siacoins](get-started-with-sia/how-to-buy-siacoins.md)
-* [What is the Siacoin total supply?](get-started-with-sia/siacoin-total-supply.md)
+* [Introduction to these docs](get-started-with-uplo/intro.md)
+* [Uplo 101](get-started-with-uplo/uplo101.md)
+* [What are UploCoins?](get-started-with-uplo/what-are-uplocoins.md)
+* [How to buy UploCoins](get-started-with-uplo/how-to-buy-uplocoins.md)
+* [What is the UploCoin total supply?](get-started-with-uplo/uplocoin-total-supply.md)
 
-## Your Sia Wallet
+## Your Uplo Wallet
 
-* [Wallet overview](your-sia-wallet/wallet-overview.md)
-* [The importance of your seed](your-sia-wallet/the-importance-of-your-seed.md)
-* [How to make a Sia address](your-sia-wallet/how-to-make-a-sia-address.md)
-* [How to send Siacoins](your-sia-wallet/how-to-send-siacoins.md)
-* [How do I change my Sia wallet password?](your-sia-wallet/how-do-i-change-my-sia-wallet-password.md)
-* [Back up your Sia wallet](your-sia-wallet/back-up-your-sia-wallet.md)
-* [Wallet troubleshooting](your-sia-wallet/wallet-troubleshooting/README.md)
-  * [Delete your seed and make a new one](your-sia-wallet/wallet-troubleshooting/delete-your-seed-and-make-a-new-one.md)
-  * [Find or fix your seed](your-sia-wallet/wallet-troubleshooting/find-or-fix-your-seed.md)
-  * [I lost my seed. What do I do?](your-sia-wallet/wallet-troubleshooting/i-lost-my-seed.-what-do-i-do.md)
-  * [My deposit or withdrawal didn't go through](your-sia-wallet/wallet-troubleshooting/my-deposit-or-withdrawal-didnt-go-through.md)
-  * [Why does Sia take so long to sync?](your-sia-wallet/wallet-troubleshooting/why-does-sia-take-so-long-to-sync.md)
-  * [What are these deductions in my wallet?](your-sia-wallet/wallet-troubleshooting/what-are-these-deductions-in-my-wallet.md)
-  * [Why does Sia-UI give me a new address each time I click Receive Siacoin?](your-sia-wallet/wallet-troubleshooting/why-does-sia-ui-give-me-a-new-address-each-time-i-click-receive-siacoin.md)
-* [Sia-UI FAQs](your-sia-wallet/sia-ui-faqs/README.md)
-  * [How to download and install Sia-UI](your-sia-wallet/sia-ui-faqs/how-to-download-and-install-sia-ui.md)
-  * [How to make a new wallet in Sia-UI](your-sia-wallet/sia-ui-faqs/how-to-make-a-new-wallet-in-sia-ui.md)
-  * [How to restore a wallet from a seed in Sia-UI](your-sia-wallet/sia-ui-faqs/how-to-restore-a-wallet-from-a-seed-in-sia-ui.md)
-  * [How to perform a clean install in Sia-UI](your-sia-wallet/sia-ui-faqs/how-to-perform-a-clean-install-in-sia-ui.md)
-  * [How do I uninstall Sia-UI?](your-sia-wallet/sia-ui-faqs/how-do-i-uninstall-sia-ui-wip.md)
-* [For Advanced Users](your-sia-wallet/for-advanced-users/README.md)
-  * [Verify the Sia release signature](your-sia-wallet/for-advanced-users/verify-the-sia-release-signature.md)
-  * [Using Sia on a remote node](your-sia-wallet/for-advanced-users/using-sia-on-a-remote-node.md)
-  * [Using Sia on multiple computers](your-sia-wallet/for-advanced-users/using-sia-on-multiple-computers.md)
-  * [How to bootstrap the Sia blockchain](your-sia-wallet/for-advanced-users/how-to-bootstrap-the-sia-blockchain.md)
-  * [How to automatically restart and unlock Sia](your-sia-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-sia.md)
-  * [How to set an environment variable](your-sia-wallet/for-advanced-users/how-to-set-an-environment-variable.md)
+* [Wallet overview](your-uplo-wallet/wallet-overview.md)
+* [The importance of your seed](your-uplo-wallet/the-importance-of-your-seed.md)
+* [How to make a Uplo address](your-uplo-wallet/how-to-make-a-uplo-address.md)
+* [How to send UploCoins](your-uplo-wallet/how-to-send-uplocoins.md)
+* [How do I change my Uplo wallet password?](your-uplo-wallet/how-do-i-change-my-uplo-wallet-password.md)
+* [Back up your Uplo wallet](your-uplo-wallet/back-up-your-uplo-wallet.md)
+* [Wallet troubleshooting](your-uplo-wallet/wallet-troubleshooting/README.md)
+  * [Delete your seed and make a new one](your-uplo-wallet/wallet-troubleshooting/delete-your-seed-and-make-a-new-one.md)
+  * [Find or fix your seed](your-uplo-wallet/wallet-troubleshooting/find-or-fix-your-seed.md)
+  * [I lost my seed. What do I do?](your-uplo-wallet/wallet-troubleshooting/i-lost-my-seed.-what-do-i-do.md)
+  * [My deposit or withdrawal didn't go through](your-uplo-wallet/wallet-troubleshooting/my-deposit-or-withdrawal-didnt-go-through.md)
+  * [Why does Uplo take so long to sync?](your-uplo-wallet/wallet-troubleshooting/why-does-uplo-take-so-long-to-sync.md)
+  * [What are these deductions in my wallet?](your-uplo-wallet/wallet-troubleshooting/what-are-these-deductions-in-my-wallet.md)
+  * [Why does Uplo-UI give me a new address each time I click Receive UploCoin?](your-uplo-wallet/wallet-troubleshooting/why-does-uplo-ui-give-me-a-new-address-each-time-i-click-receive-uplocoin.md)
+* [Uplo-UI FAQs](your-uplo-wallet/uplo-ui-faqs/README.md)
+  * [How to download and install Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-download-and-install-uplo-ui.md)
+  * [How to make a new wallet in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-make-a-new-wallet-in-uplo-ui.md)
+  * [How to restore a wallet from a seed in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-restore-a-wallet-from-a-seed-in-uplo-ui.md)
+  * [How to perform a clean install in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-perform-a-clean-install-in-uplo-ui.md)
+  * [How do I uninstall Uplo-UI?](your-uplo-wallet/uplo-ui-faqs/how-do-i-uninstall-uplo-ui-wip.md)
+* [For Advanced Users](your-uplo-wallet/for-advanced-users/README.md)
+  * [Verify the Uplo release signature](your-uplo-wallet/for-advanced-users/verify-the-uplo-release-signature.md)
+  * [Using Uplo on a remote node](your-uplo-wallet/for-advanced-users/using-uplo-on-a-remote-node.md)
+  * [Using Uplo on multiple computers](your-uplo-wallet/for-advanced-users/using-uplo-on-multiple-computers.md)
+  * [How to bootstrap the Uplo blockchain](your-uplo-wallet/for-advanced-users/how-to-bootstrap-the-uplo-blockchain.md)
+  * [How to automatically restart and unlock Uplo](your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md)
+  * [How to set an environment variable](your-uplo-wallet/for-advanced-users/how-to-set-an-environment-variable.md)
 
 ## Renting
 
-* [About renting on Sia](renting/about-renting.md)
+* [About renting on Uplo](renting/about-renting.md)
 * [Managing your files](renting/managing-your-files.md)
-* [How to rent storage on Sia](renting/how-to-rent-storage-on-sia.md)
+* [How to rent storage on Uplo](renting/how-to-rent-storage-on-uplo.md)
 * [How to back up and restore your files](renting/how-to-back-up-your-files.md)
 * [Renter troubleshooting](renting/renter-troubleshooting.md)
 * [Is my data secure?](renting/is-my-data-secure.md)
 
 ## Hosting
 
-* [About hosting on Sia](hosting/about-hosting-on-sia.md)
-* [How to host on Sia](hosting/how-to-host-on-sia.md)
+* [About hosting on Uplo](hosting/about-hosting-on-uplo.md)
+* [How to host on Uplo](hosting/how-to-host-on-uplo.md)
 * [Hosting FAQ](hosting/hosting-faq.md)
 
 ## Mining
 
-* [About mining on Sia](mining/about-mining-on-sia.md)
-* [Sia mining pools](mining/sia-mining-pools.md)
+* [About mining on Uplo](mining/about-mining-on-uplo.md)
+* [Uplo mining pools](mining/uplo-mining-pools.md)
 
 ## Contributing
 
-* [How can I contribute to Sia?](contributing/how-can-i-contribute-to-sia.md)
-* [Where can I learn more about Sia?](contributing/learn-more.md)
+* [How can I contribute to Uplo?](contributing/how-can-i-contribute-to-uplo.md)
+* [Where can I learn more about Uplo?](contributing/learn-more.md)
 
-## Siafunds
+## UploFunds
 
-* [What are Siafunds?](siafunds/what-are-siafunds.md)
-* [How do I buy Siafunds?](siafunds/how-do-i-buy-siafunds.md)
-* [How to cash out Siafunds](siafunds/how-to-cash-out-siafunds.md)
-* [SEC Settlement FAQ](siafunds/sec-settlement-faq.md)
+* [What are UploFunds?](uplofunds/what-are-uplofunds.md)
+* [How do I buy UploFunds?](uplofunds/how-do-i-buy-uplofunds.md)
+* [How to cash out UploFunds](uplofunds/how-to-cash-out-uplofunds.md)
+* [SEC Settlement FAQ](uplofunds/sec-settlement-faq.md)
 
-## Sia Integrations
+## Uplo Integrations
 
-* [Listing Siacoin on your exchange](sia-integrations/listing-siacoin-on-your-exchange.md)
-* [Using the Sia Ledger Nano S app](sia-integrations/using-the-sia-ledger-nano-s-app.md)
-* [Brand guidelines for Sia in your project or site](sia-integrations/sia-brand-guidelines.md)
+* [Listing UploCoin on your exchange](uplo-integrations/listing-uplocoin-on-your-exchange.md)
+* [Using the Uplo Ledger Nano S app](uplo-integrations/using-the-uplo-ledger-nano-s-app.md)
+* [Brand guidelines for Uplo in your project or site](uplo-integrations/uplo-brand-guidelines.md)
 
 ## Forks
 
 * [Using the wrong chain after a fork](forks/using-the-wrong-chain-after-a-fork.md)
-* [Navigating the 2021 Sia hardfork](forks/navigating-the-2021-sia-hardfork.md)
+* [Navigating the 2021 Uplo hardfork](forks/navigating-the-2021-uplo-hardfork.md)
 * [So, you didn't update in time for the fork](forks/so-you-didnt-update-in-time.md)
 

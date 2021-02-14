@@ -1,22 +1,22 @@
 # Wallet overview
 
-Sia-UI and `siac` are the best places to store your Siacoins. They're also the only official apps made by the developers of the Sia network.
+Uplo-UI and `uploc` are the best places to store your UploCoins. They're also the only official apps made by the developers of the Uplo network.
 
-[Download Sia.](http://sia.tech/get-started)
+[Download Uplo.](http://uplo.tech/get-started)
 
-Sia-UI allows you to store Siacoins in a secure wallet, or rent or sell storage space on the Sia network. `siac` is a command-line client for Sia, and is only recommended for advanced users.
+Uplo-UI allows you to store UploCoins in a secure wallet, or rent or sell storage space on the Uplo network. `uploc` is a command-line client for Uplo, and is only recommended for advanced users.
 
-Sia-UI allows you to store Siacoins in a secure wallet, or rent or sell storage space on the Sia network. `siac` is a command-line client for Sia, and is only recommended for advanced users.
+Uplo-UI allows you to store UploCoins in a secure wallet, or rent or sell storage space on the Uplo network. `uploc` is a command-line client for Uplo, and is only recommended for advanced users.
 
-[Download Sia.](http://sia.tech/get-started)
+[Download Uplo.](http://uplo.tech/get-started)
 
-Your wallet gives you access to see your balance and transaction history, and the ability to send or receive Siacoin to any other Sia user.
+Your wallet gives you access to see your balance and transaction history, and the ability to send or receive UploCoin to any other Uplo user.
 
-Here's what a typical Sia-UI wallet looks like.
+Here's what a typical Uplo-UI wallet looks like.
 
 ![](../.gitbook/assets/send-1.png)
 
-Your **balance** is at the top. This is the current amount of Siacoins in your wallet, and can fluctuate quite a bit depending on how you use Sia. If you own any Siafunds, they show up next to this.
+Your **balance** is at the top. This is the current amount of UploCoins in your wallet, and can fluctuate quite a bit depending on how you use Uplo. If you own any UploFunds, they show up next to this.
 
 ## The Transactions tab
 
@@ -26,11 +26,11 @@ Every transaction is broken into a few categories - the Amount, Transaction ID, 
 
 {% tabs %}
 {% tab title="Amount" %}
-The amount of Siacoins entering or leaving your wallet.
+The amount of UploCoins entering or leaving your wallet.
 {% endtab %}
 
 {% tab title="Transaction ID" %}
-Use these to look up your transaction in a Sia blockchain explorer. The transaction IDs are shortened, but you can hover over them to see the full ID. You can also copy and paste while you do this.
+Use these to look up your transaction in a Uplo blockchain explorer. The transaction IDs are shortened, but you can hover over them to see the full ID. You can also copy and paste while you do this.
 {% endtab %}
 
 {% tab title="Time" %}
@@ -38,7 +38,7 @@ The date and time the transaction was made.
 {% endtab %}
 
 {% tab title="TX Type" %}
-The type of transaction that took place. Possible values are Siacoin, Siafund, Contract, Proof, Revision, Block, Defrag, and Setup.
+The type of transaction that took place. Possible values are UploCoin, Siafund, Contract, Proof, Revision, Block, Defrag, and Setup.
 {% endtab %}
 
 {% tab title="Status" %}
@@ -52,9 +52,9 @@ Near the upper right corner, you'll see a button that says `More`. Click on this
 
 **View Seed** shows you your seed in case you need to see it again.
 
-**Change Password** lets you set a custom password for your wallet, instead of using your Sia seed. [Learn about the pros and cons of a custom password.](how-do-i-change-my-sia-wallet-password.md)
+**Change Password** lets you set a custom password for your wallet, instead of using your Uplo seed. [Learn about the pros and cons of a custom password.](how-do-i-change-my-uplo-wallet-password.md)
 
 ## Be careful
 
-There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your Siacoin is the official app downloaded from that link above or [our GitLab page.](https://gitlab.com/NebulousLabs/Sia-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/sia), but we can't guarantee that any other software wallet will safely store your Siacoins.
+There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your UploCoin is the official app downloaded from that link above or [our GitLab page.](https://github.com/uplo-tech/uplo-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/uplo), but we can't guarantee that any other software wallet will safely store your UploCoins.
 

@@ -1,6 +1,6 @@
 # What are these deductions in my wallet?
 
-Unexpected deductions of Siacoin from your Sia-UI wallet are not an immediate cause for concern. There are a few completely normal causes.
+Unexpected deductions of UploCoin from your Uplo-UI wallet are not an immediate cause for concern. There are a few completely normal causes.
 
 ## **You are renting storage space, and the coins are paying for the storage space, as specified in your renter allowance.**
 
@@ -24,5 +24,5 @@ Then use the Recover Seed feature to restore your old seed to your new wallet. T
 
 ## **Someone has access to your seed.**
 
-This is the bad one. If someone has access to your 29-word seed, they can easily steal your Siacoin by loading it into another instance of Sia-UI. Keep your seed safe.
+This is the bad one. If someone has access to your 29-word seed, they can easily steal your UploCoin by loading it into another instance of Uplo-UI. Keep your seed safe.
 

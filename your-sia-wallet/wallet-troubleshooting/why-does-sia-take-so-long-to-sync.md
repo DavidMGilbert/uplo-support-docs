@@ -1,6 +1,6 @@
-# Why does Sia take so long to sync?
+# Why does Uplo take so long to sync?
 
-Sia needs to download an entire copy of the blockchain to maintain the integrity of the network’s transactions. This is a critical step and allows the decentralized network to function correctly.
+Uplo needs to download an entire copy of the blockchain to maintain the integrity of the network’s transactions. This is a critical step and allows the decentralized network to function correctly.
 
 {% hint style="info" %}
 As of January 2021, the blockchain is a little over 24 GB, and grows about 1 GB every two months.
@@ -13,7 +13,7 @@ This is totally normal, but we are working to decrease this initial sync time in
 Troubleshooting steps can be taken to address this. If the initial sync appears to be frozen:
 
 * Give it time. Often, the sync will resume on its own.
-* Quit Sia and restart your computer.
+* Quit Uplo and restart your computer.
 
-Some sites will allow you to "bootstrap" the blockchain, by giving you a mostly complete version to download and drop in the appropriate folder on your computer. As this requires trusting the party you download it from, we always recommend letting Sia sync itself.
+Some sites will allow you to "bootstrap" the blockchain, by giving you a mostly complete version to download and drop in the appropriate folder on your computer. As this requires trusting the party you download it from, we always recommend letting Uplo sync itself.
 
