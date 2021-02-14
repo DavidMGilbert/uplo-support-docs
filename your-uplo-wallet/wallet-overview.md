@@ -14,7 +14,7 @@ Your wallet gives you access to see your balance and transaction history, and th
 
 Here's what a typical Uplo-UI wallet looks like.
 
-![](../.gitbook/assets/send-1.png)
+![](../.gitbook/assets/address-1.png)
 
 Your **balance** is at the top. This is the current amount of UploCoins in your wallet, and can fluctuate quite a bit depending on how you use Uplo. If you own any UploFunds, they show up next to this.
 
