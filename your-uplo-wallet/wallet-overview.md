@@ -56,5 +56,5 @@ Near the upper right corner, you'll see a button that says `More`. Click on this
 
 ## Be careful
 
-There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your UploCoin is the official app downloaded from that link above or [our GitLab page.](https://github.com/uplo-tech/uplo-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/uplo), but we can't guarantee that any other software wallet will safely store your UploCoins.
+There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your UploCoin is the official app downloaded from that link above or [our Github page.](https://github.com/uplo-tech/uplo-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/uplo), but we can't guarantee that any other software wallet will safely store your UploCoins.
 
