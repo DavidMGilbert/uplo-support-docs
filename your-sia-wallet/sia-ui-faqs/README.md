@@ -1,2 +1,0 @@
-# Uplo-UI FAQs
-
