@@ -1,2 +1,0 @@
-# About hosting on Uplo
-

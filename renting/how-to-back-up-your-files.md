@@ -1,6 +1,6 @@
 # How to back up and restore your files
 
-With the initial release of Uplo, we will have seed-based file recovery. This feature lets you create a metadata snapshot of your current files, which is stored on the Uplo network and linked to your seed. As long as your contracts are active, you can then use this backup to restore your files at any future date and from any \(preferably empty\) Uplo node.
+Back in version 1.4.1 of Uplo, we introduced seed-based file recovery. This feature lets you create a metadata snapshot of your current files, which is stored on the Uplo network and linked to your seed. As long as your contracts are active, you can then use this backup to restore your files at any future date and from any \(preferably empty\) Uplo node.
 
 When your files are on Uplo, they're on the most private, secure network in the world. With seed-based file recovery, they're now also recoverable anywhere, anytime.
 
@@ -14,7 +14,7 @@ Your contracts need to be active, which means Uplo isn't totally fire-and-forget
 
 ### **Create your backup**
 
-After you've [uploaded files to Uplo](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/renting/how-to-rent-storage-on-uplo.md), go to the Rent tab and click **More**. You've got two new options, Backup Files and Restore Files. Click **Backup Files**.
+After you've [uploaded files to Uplo](how-to-rent-storage-on-uplo.md), go to the Rent tab and click **More**. You've got two new options, Backup Files and Restore Files. Click **Backup Files**.
 
 ![](../.gitbook/assets/backup-1.png)
 

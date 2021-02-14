@@ -4,9 +4,9 @@
 
 When a blockchain hardforks, a new version of the blockchain is created while the old is left behind. This typically happens at a certain block height.
 
-For example, [Uplo is forking](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/forks/navigating-the-2021-uplo-hardfork.md) around February 3rd, 2021. When Uplo forks, it will occur at block 298,000 and means that we now have a new chain that the Uplo team will be supporting. There's also the non-fork chain that can be maintained by a separate group if they want. Here's a visual representation of the upcoming Uplo fork.
+For example, [Uplo is forking](navigating-the-2021-uplo-hardfork.md) around February 3rd, 2021. When Uplo forks, it will occur at block 298,000 and means that we now have a new chain that the Uplo team will be supporting. There's also the non-fork chain that can be maintained by a separate group if they want. Here's a visual representation of the upcoming Uplo fork.
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/.gitbook/assets/uplo-fork-path-2021.png)
+![](../.gitbook/assets/uplo-fork-path-2021.png)
 
 ## What this means for users
 
@@ -30,19 +30,19 @@ If you're on 1.3.7 or earlier, you can easily find these folders by clicking **S
 
 If you're on 1.4.0 or later, use the Info button at the top of Uplo.
 
-![](../.gitbook/assets/fork-2%20%281%29%20%283%29%20%283%29.png)
+![](../.gitbook/assets/fork-2%20%281%29%20%283%29.png)
 
 Then click **Open Data Folder.**
 
 Once you find the /uplo folder:
 
-![](../.gitbook/assets/fork-3%20%281%29%20%282%29%20%282%29.png)
+![](../.gitbook/assets/fork-3%20%281%29%20%282%29%20%281%29.png)
 
 delete the `consensus` and `transactionpool` folders. Reopen Uplo to let it sync the correct version of the blockchain.
 
 ## Special considerations for miners
 
-Some forks come with no changes to the mining algorithm for their network. In this case, like with the[ 2021 Uplo network hardfork](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/forks/navigating-the-2021-uplo-hardfork.md), you just need to make sure your mining pool upgrades in time \(they did\).
+Some forks come with no changes to the mining algorithm for their network. In this case, like with the[ 2021 Uplo network hardfork](navigating-the-2021-uplo-hardfork.md), you just need to make sure your mining pool upgrades in time \(they did\).
 
 Miners might be affected in other ways by a fork. If you've set up your miner to mine a certain coin, a fork might change the algorithm associated with mining that coin. An example of this was the 2018 Uplo network hardfork, which invalidated all ASIC Uplo miners except those produced by Obelisk. If you were using a Bitmain A3, Innosilicon S11, or any other non-Obelisk ASIC miner, you were no longer mining the primary dev-supported Uplo chain after the fork.
 

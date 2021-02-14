@@ -7,7 +7,7 @@ description: >-
 # Welcome to Uplo!
 
 {% hint style="info" %}
-Uplo is hardforking on February 3rd. [Learn what you need to do.](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/forks/navigating-the-2021-uplo-hardfork.md)
+Uplo is hardforking on February 3rd. [Learn what you need to do.](forks/navigating-the-2021-uplo-hardfork.md)
 {% endhint %}
 
 Uplo is a decentralized cloud storage platform secured by blockchain technology. The Uplo storage network leverages underutilized hard drive capacity around the world to create a data storage marketplace that is more reliable and lower cost than traditional cloud storage providers. Uplo has its own blockchain, and a utility token that powers it – the UploCoin.

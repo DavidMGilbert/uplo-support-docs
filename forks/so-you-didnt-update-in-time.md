@@ -6,9 +6,9 @@ description: ...and now you have to resync your Uplo wallet.
 
 ![](../.gitbook/assets/cap.jpg)
 
-On February 3rd, 2021 at block 298,000, [the Uplo network hardforked](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/forks/navigating-the-2021-uplo-hardfork.md) to implement the Uplo Foundation: a new non-profit entity that builds and supports distributed cloud storage infrastructure, with a specific focus on the Uplo storage platform.
+On February 3rd, 2021 at block 298,000, [the Uplo network hardforked](navigating-the-2021-uplo-hardfork.md) to implement the Uplo Foundation: a new non-profit entity that builds and supports distributed cloud storage infrastructure, with a specific focus on the Uplo storage platform.
 
-It's a great thing! But here you are, and you didn't update in time. Maybe you never even updated from the 2018 fork! You can't rent storage space, host, or send SC to friends or exchanges. For most people who updated ahead of time, it was a simple matter of [downloading the latest version and installing it](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/your-uplo-wallet/uplo-ui-faqs/how-to-download-and-install-uplo-ui.md).
+It's a great thing! But here you are, and you didn't update in time. Maybe you never even updated from the 2018 fork! You can't rent storage space, host, or send SC to friends or exchanges. For most people who updated ahead of time, it was a simple matter of [downloading the latest version and installing it](../your-uplo-wallet/uplo-ui-faqs/how-to-download-and-install-uplo-ui.md).
 
 Not you though, something went \(or is going\) wrong. It might be that:
 
@@ -32,5 +32,5 @@ The most effective way to resync is to perform a clean install. The process requ
 * deleting and re-downloading Uplo
 * setting Uplo up again
 
-It's a bit of a long process, mostly because Uplo will re-download the consensus blockchain file. But resyncing is something you'll need to do anyway, and a clean install works 100% of the time. Use [this guide](https://github.com/DavidMGilbert/uplo-support-docs/tree/7d49a88dcb3b035d374d7df410f395a22d2df2d1/your-uplo-wallet/uplo-ui-faqs/how-to-perform-a-clean-install-in-uplo-ui.md) for a detailed walkthrough of these steps.
+It's a bit of a long process, mostly because Uplo will re-download the consensus blockchain file. But resyncing is something you'll need to do anyway, and a clean install works 100% of the time. Use [this guide](../your-uplo-wallet/uplo-ui-faqs/how-to-perform-a-clean-install-in-uplo-ui.md) for a detailed walkthrough of these steps.
 

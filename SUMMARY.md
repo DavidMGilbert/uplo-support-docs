@@ -4,11 +4,11 @@
 
 ## Get Started with Uplo
 
-* [Introduction to these docs](get-started-with-uplo/introduction-to-these-docs.md)
-* [Uplo 101](get-started-with-uplo/uplo-101.md)
+* [Introduction to these docs](get-started-with-uplo/intro.md)
+* [Uplo 101](get-started-with-uplo/uplo101.md)
 * [What are UploCoins?](get-started-with-uplo/what-are-uplocoins.md)
 * [How to buy UploCoins](get-started-with-uplo/how-to-buy-uplocoins.md)
-* [What is the UploCoin total supply?](get-started-with-uplo/what-is-the-uplocoin-total-supply.md)
+* [What is the UploCoin total supply?](get-started-with-uplo/uplocoin-total-supply.md)
 
 ## Your Uplo Wallet
 
@@ -31,7 +31,7 @@
   * [How to make a new wallet in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-make-a-new-wallet-in-uplo-ui.md)
   * [How to restore a wallet from a seed in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-restore-a-wallet-from-a-seed-in-uplo-ui.md)
   * [How to perform a clean install in Uplo-UI](your-uplo-wallet/uplo-ui-faqs/how-to-perform-a-clean-install-in-uplo-ui.md)
-  * [How do I uninstall Uplo-UI?](your-uplo-wallet/uplo-ui-faqs/how-do-i-uninstall-uplo-ui.md)
+  * [How do I uninstall Uplo-UI?](your-uplo-wallet/uplo-ui-faqs/how-do-i-uninstall-uplo-ui-wip.md)
 * [For Advanced Users](your-uplo-wallet/for-advanced-users/README.md)
   * [Verify the Uplo release signature](your-uplo-wallet/for-advanced-users/verify-the-uplo-release-signature.md)
   * [Using Uplo on a remote node](your-uplo-wallet/for-advanced-users/using-uplo-on-a-remote-node.md)
@@ -76,7 +76,7 @@
 
 * [Listing UploCoin on your exchange](uplo-integrations/listing-uplocoin-on-your-exchange.md)
 * [Using the Uplo Ledger Nano S app](uplo-integrations/using-the-uplo-ledger-nano-s-app.md)
-* [Brand guidelines for Uplo in your project or site](uplo-integrations/brand-guidelines-for-uplo-in-your-project-or-site.md)
+* [Brand guidelines for Uplo in your project or site](uplo-integrations/uplo-brand-guidelines.md)
 
 ## Forks
 
