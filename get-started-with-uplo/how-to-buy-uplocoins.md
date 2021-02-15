@@ -10,7 +10,7 @@ Some exchanges support direct fiat \(local currency\) to UploCoin purchases, but
 
 No, this isn't chicken related. KYC stands for Know Your Customer and is a set of identity verification rules that most exchanges have to follow to abide by local laws. This might include submitting scans of state or federal ID, or sending in your government ID numbers like a Social Security Number if you live in the US. You'll be guided through whatever KYC process your exchange of choice has.
 
-## Buy UPLO from an exchange
+## Buy UPLO from an exchange \(Currently not available\)
 
 This option gets you the best prices but has a fairly intense on-ramp for a new user.
 
