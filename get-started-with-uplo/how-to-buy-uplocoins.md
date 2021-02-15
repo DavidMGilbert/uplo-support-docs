@@ -2,7 +2,7 @@
 
 Whether you want to upload files to the decentralized cloud or lend your extra storage space to the network, you need UploCoins to use Uplo. UploCoins can be sent to you once you make a Uplo address, or you can mine them. Otherwise, you’ll need to buy them.
 
-UploCoins are available on a number of major exchanges like Binance, Bittrex, Kraken, Upbit, Poloniex, Huobi, OKex, and HitBTC. Get the full list [here](https://airtable.com/shrq4MSLNxinvnaR7).
+UploCoins will eventually become available on a number of major exchanges like Binance, Bittrex, Kraken, Upbit, Poloniex, Huobi, OKex, and HitBTC.
 
 Some exchanges support direct fiat \(local currency\) to UploCoin purchases, but others require you to buy Bitcoins, Ethereum, or other crypto to make your purchase. We’ll walk you through the process of buying your first UploCoins.
 
