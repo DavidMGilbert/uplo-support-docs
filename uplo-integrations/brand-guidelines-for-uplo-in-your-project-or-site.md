@@ -12,11 +12,11 @@ In an effort to promote these goals, please use the following as guidelines when
 
 ## Official Uplo assets
 
-[Get them here](https://github.com/uplo-tech/uplo/-/tree/master/doc/assets/community/uplo). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
+[Get them here](https://github.com/uplo-tech/official-uplo-assets-for-media). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
 
 ## `built with Uplo`
 
-![](../.gitbook/assets/brand-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 If you are building a project featuring Uplo, use the `built with Uplo` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
@@ -43,7 +43,7 @@ We’d prefer that your project not use the Uplo logo or wordmark directly in an
 
 A good example of this is UploStats:
 
-![](../.gitbook/assets/brand-3.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 The logo is similar, but is easily differentiated from the Uplo logo by both the color and the design using a line graph in the center. Plus, it perfectly represents what the site is about - Uplo and stats!
 
@@ -51,10 +51,11 @@ The logo is similar, but is easily differentiated from the Uplo logo by both the
 
 Uplo uses a number of colors.
 
-![](../.gitbook/assets/brand-4.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 If you use the exact Uplo logo or wordmark in any way, like to represent the fact that you integrate with Uplo on your site, the image should either use our green or one of these grays. In other words, don't use our exact logo or wordmark and change the color to match your color scheme.
 
 When designing your own logo, feel free to draw from our color palette or create your own.
 
 We can't wait to see what you build! Be sure you let us know in [Discord](https://discord.gg/b2s3P9Cy6F).
+
