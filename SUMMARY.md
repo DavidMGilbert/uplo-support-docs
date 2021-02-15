@@ -13,7 +13,7 @@
 
 * [Wallet overview](your-uplo-wallet/wallet-overview.md)
 * [The importance of your seed](your-uplo-wallet/the-importance-of-your-seed.md)
-* [How to make a Uplo address](your-uplo-wallet/how-to-make-a-uplo-address.md)
+* [How to make an Uplo address](your-uplo-wallet/how-to-make-an-uplo-address.md)
 * [How to send UploCoins](your-uplo-wallet/how-to-send-uplocoins.md)
 * [How do I change my Uplo wallet password?](your-uplo-wallet/how-do-i-change-my-uplo-wallet-password.md)
 * [Back up your Uplo wallet](your-uplo-wallet/back-up-your-uplo-wallet.md)

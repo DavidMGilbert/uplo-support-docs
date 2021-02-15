@@ -1,4 +1,4 @@
-# How to make a Uplo address
+# How to make an Uplo address
 
 At some point, you'll need to receive UploCoins. You might be sending them over from an exchange wallet, another Uplo wallet you own, or requesting UploCoins from a friend. No matter the reason, it's easy to generate an address in your Uplo-UI wallet to receive UploCoins.
 
