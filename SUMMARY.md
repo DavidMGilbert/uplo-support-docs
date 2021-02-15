@@ -22,7 +22,6 @@
   * [Find or fix your seed](your-uplo-wallet/wallet-troubleshooting/find-or-fix-your-seed.md)
   * [I lost my seed. What do I do?](your-uplo-wallet/wallet-troubleshooting/i-lost-my-seed.-what-do-i-do.md)
   * [My deposit or withdrawal didn't go through](your-uplo-wallet/wallet-troubleshooting/my-deposit-or-withdrawal-didnt-go-through.md)
-  * [Why does Uplo take so long to sync?](your-uplo-wallet/wallet-troubleshooting/why-does-uplo-take-so-long-to-sync.md)
   * [What are these deductions in my wallet?](your-uplo-wallet/wallet-troubleshooting/what-are-these-deductions-in-my-wallet.md)
   * [Why does Uplo-UI give me a new address each time I click Receive UploCoin?](your-uplo-wallet/wallet-troubleshooting/why-does-uplo-ui-give-me-a-new-address-each-time-i-click-receive-uplocoin.md)
 * [Uplo-UI FAQs](your-uplo-wallet/uplo-ui-faqs/README.md)
@@ -57,7 +56,6 @@
 ## Mining
 
 * [About mining on Uplo](mining/about-mining-on-uplo.md)
-* [Uplo mining pools](mining/uplo-mining-pools.md)
 
 ## Contributing
 
@@ -73,12 +71,5 @@
 ## Uplo Integrations
 
 * [Listing UploCoin on your exchange](uplo-integrations/listing-uplocoin-on-your-exchange.md)
-* [Using the Uplo Ledger Nano S app](uplo-integrations/using-the-uplo-ledger-nano-s-app.md)
 * [Brand guidelines for Uplo in your project or site](uplo-integrations/brand-guidelines-for-uplo-in-your-project-or-site.md)
-
-## Forks
-
-* [Using the wrong chain after a fork](forks/using-the-wrong-chain-after-a-fork.md)
-* [Navigating the 2021 Uplo hardfork](forks/navigating-the-2021-uplo-hardfork.md)
-* [So, you didn't update in time for the fork](forks/so-you-didnt-update-in-time.md)
 

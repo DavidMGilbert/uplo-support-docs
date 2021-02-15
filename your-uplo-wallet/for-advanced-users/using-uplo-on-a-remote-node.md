@@ -7,7 +7,7 @@ While the majority of users use Uplo on a local computer, there are a few instan
 Uplo already has the functionality to automatically pick up a running `uplod` instance if one was started manually. To get Uplo to pick up a remote instance, all you need to do is forward your local port 9980 to your remote server port 9980. For those comfortable with the command line, you can use the following command.
 
 ```text
-ssh -f user@domain -L 9980:localhost:9980 -N
+ssh -f user@domain -L 8480:localhost:8480 -N
 ```
 
 `-f` Requests ssh to go to background just before command execution.

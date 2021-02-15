@@ -8,19 +8,19 @@ You can also receive [UploFunds](../uplofunds/what-are-uplofunds.md) using one o
 
 Go to the Wallet in Uplo-UI. Click on the **Receive** tab.
 
-![](../.gitbook/assets/receive-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Click **Generate New Address** to create a new UploCoin address.
 
-![](../.gitbook/assets/receive-2.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Copy and paste this manually, or use the **Copy** button to the right to make sure you get the full address without any extra spaces.
 
 Clicking **Generate New Address** again will move the Latest Address down a step, and create a brand new UploCoin address for you to use.
 
-![](../.gitbook/assets/receive-3.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Once you receive UploCoins, you'll see a history in the **Transactions** tab. You'll see 0/6, then 1/6, and so on. This indicates how many blocks have passed since the transaction has been processed. At six confirmations, we deem the transaction to be fully confirmed and will show a green checkmark.
 
-![](../.gitbook/assets/address-4%20%281%29%20%282%29%20%281%29.png)
+![](../.gitbook/assets/coming-soon-01.png)
 

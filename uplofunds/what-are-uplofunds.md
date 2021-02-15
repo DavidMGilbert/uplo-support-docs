@@ -16,7 +16,7 @@ At the end of a contract, the amount reserved is then dispersed to all UploFund 
 
 UploFunds are stored in your wallet, right next to your UploCoins.
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-close.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 They are also sent to and received at normal UploCoin addresses, and can be restored with your UploCoin balance as long as you have your Uplo seed.
 

@@ -28,7 +28,7 @@ In Uplo-UI version 1.4.0 and later, there's an easy way to find this. Click on t
 
 Then click on **Show Uplo Data** or **Open Data Folder** \(version dependent\)**.**
 
-![](../../.gitbook/assets/fork-2%20%281%29%20%283%29%20%282%29.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 You'll be taken to your computer's `/uplo` folder. Delete the parent folder to this, `/Uplo-UI`.
 

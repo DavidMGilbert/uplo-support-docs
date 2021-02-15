@@ -51,7 +51,7 @@ Disadvantages
 
 Go to the Wallet tab in Uplo-UI.
 
-![](../.gitbook/assets/send-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Click **More** in the upper right corner.
 
@@ -59,7 +59,7 @@ Click **More** in the upper right corner.
 
 Click **Change Password.** Uplo-UI will ask for your current password. For current password, enter whatever you're using to unlock your wallet now. You can then enter your custom password.
 
-![](../.gitbook/assets/password-2.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 That's it! You've changed your Uplo-UI password.
 

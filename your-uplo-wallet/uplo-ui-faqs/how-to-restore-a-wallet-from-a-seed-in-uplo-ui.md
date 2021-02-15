@@ -17,29 +17,29 @@ Restoring from your seed does not restore a custom password. After following thi
 
 Go to the Wallet tab. If there's not another wallet setup already, you'll see two options: Create new wallet and Restore from seed. Click **Restore from seed.**
 
-![](../../.gitbook/assets/restore-1%20%282%29.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 If the blockchain isn't fully synched, you'll receive a message telling you to wait. Uplo-UI needs to be fully synced because it needs to scan the blockchain for all your transactions.
 
-![](../../.gitbook/assets/restore-2.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 Once the blockchain is synced, clicking Restore from seed will prompt you for your Uplo seed. It must be entered exactly as it was given to you: all lower-case letters, a space between each word, and no spaces at the beginning or end of the phrase. Enter your seed and then click **Next.**
 
 NoteTipWarningThe text you enter here is readable on the screen, not disguised as bullets. Be sure no one is looking over your shoulder.
 
-![](../../.gitbook/assets/restore-3.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 Uplo-UI will then scan the blockchain.
 
-![](../../.gitbook/assets/restore-4.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 Give Uplo a few minutes, it needs to do some work on your wallet.
 
-![](../../.gitbook/assets/restore-5.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 After it's done, you'll be taken to the Dashboard. Click back to the Wallet tab to find your balance.
 
-![](../../.gitbook/assets/send-1.png)
+![](../../.gitbook/assets/coming-soon-01.png)
 
 That's it! Uplo's so smart, it even pulls your transaction history.
 

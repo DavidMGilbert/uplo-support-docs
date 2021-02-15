@@ -51,7 +51,7 @@ Uplo may take a while to start while it tries to figure out the changes. It may 
 
 You can stop accepting new contracts by turning off the green slider next to "Announce Host" in the Host tab. However, this only stops new contracts - you still need to finish out current contracts. Default host settings use a ~26-week contract length and renters use a default ~3-month length, so you should switch new contracts off at least 6 months prior to when you'd like to shut down your host. Otherwise, you may still have contracts active which you could lose collateral for if you take your host offline before they complete.
 
-Once you've switched off new contracts, you can track the progress of any current contracts by typing `host` into the Terminal `>` at the top of Uplo-UI every week or so. Once all collateral is freed \(no collateral shows as locked or risked\), you can safely take your host offline. You can also use a tool like the [SiaStats Host Monitor](https://uplostats.info/hosts) by searching for your host's IP address or domain name. While this service doesn't show contract details, once your host's used storage drops to zero all contracts should be completed.
+Once you've switched off new contracts, you can track the progress of any current contracts by typing `host` into the Terminal `>` at the top of Uplo-UI every week or so. Once all collateral is freed \(no collateral shows as locked or risked\), you can safely take your host offline. You can also use a tool like the [UoploStats Host Monitor](https://uplostats.info/hosts) by searching for your host's IP address or domain name. While this service doesn't show contract details, once your host's used storage drops to zero all contracts should be completed.
 
 ## Should I backup my Uplo host metadata?
 
@@ -68,8 +68,6 @@ There are a number of free DDNS providers which can be found by searching for DD
 ## My Uplo host is becoming unresponsive for several minutes to several hours at a time.
 
 Your host can become unresponsive if you add or change storage directories - especially on Windows, as Windows preallocates files so adding a drive with several terabytes of space will take as long as it takes to write to the entire drive, which is usually about 2-3 hours per TB. Your host can also become unresponsive during initial startup if it has to process or rebuild certain internal data files, or if it is syncing because it hasn't been online for a while or because the consensus data was removed or bootstrapped.
-
-In Uplo v1.4.x and v1.5.0, there is a known issue regarding hosts becoming unresponsive, causing [SiaStats Host Monitor](https://uplostats.info/hosts) benchmark failures and other issues. The SiaStats benchmark failures usually mention an I/O timeout, and several failures may occur in a row. There's not much you can do about this issue currently, but the Uplo team is aware of the issue and has attempted a fix for v1.5.1. As this version has just been released in November 2020, it may take a few months to see if the resolution is effective.
 
 ## Why are there multiple small deductions taken from my wallet?
 

@@ -22,7 +22,7 @@ Your **balance** is at the top. This is the current amount of UploCoins in your 
 
 Every transaction is broken into a few categories - the Amount, Transaction ID, Time, TX Type, and Status.
 
-![In this example, you can see three transactions.](../.gitbook/assets/wallet-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 {% tabs %}
 {% tab title="Amount" %}

@@ -11,11 +11,11 @@ Use the command `uploc`. This will print basic info about Uplo’s status, focus
 ```go
 Consensus:
   Synced: Yes
-  Height: 216307
+  Height: 123456
 
 Wallet:
   Status:          unlocked
-  UploCoin Balance: 415.95 KS
+  UploCoin Balance: 415.95 UPLO
 
 Renter:
   Files:           257
@@ -40,7 +40,7 @@ Use the command `uploc renter`. This will print some info that you saw earlier, 
 
 ```go
 Allowance:       12 KS
-  Spent Funds:     254.4 SC
+  Spent Funds:     254.4 UPLO
   Unspent Funds:   11.75 KS
 
 Data Storage:
@@ -69,8 +69,8 @@ Spending:
   Current Period Spending:
     Spent Funds:      18.07 KS
       Storage:        12.72 KS
-      Upload:         732.2 SC
-      Download:       3.093 SC
+      Upload:         732.2 UPLO
+      Download:       3.093 UPLO
       Fees:           4.617 KS
     Unspent Funds:    56.93 KS
       Allocated:      29.03 KS
@@ -93,7 +93,7 @@ There’s also another important file - the renter.log. This can be found in the
 Worker logs to search for:
 
 ```go
-2019/07/29 18:16:05.728694 worker.go:199: Refreshed Worker Pool has 167 total workers and 0 are on cooldown
+2021/2/15 18:16:05.728694 worker.go:199: Refreshed Worker Pool has 167 total workers and 0 are on cooldown
 ```
 
 This log will tell you how many of your workers are on cool down. Search for \`Refreshed Worker Pool\`. If too many of your workers are on cooldown then uploads and downloads will be impacted. To find out why and which workers are on cooldown see the log messages directly above this line. There will be a line for each worker.
@@ -101,13 +101,13 @@ This log will tell you how many of your workers are on cool down. Search for \`R
 Uploadheap logs to search for:
 
 ```go
-2019/07/29 18:16:12.598899 uploadheap.go:1122: [DEBUG] Executing an upload and repair cycle, uploadHeap has 250 chunks in it
+2021/2/15 18:16:12.598899 uploadheap.go:1122: [DEBUG] Executing an upload and repair cycle, uploadHeap has 250 chunks in it
 ```
 
 Search for `Executing`. Check to see if this line appears and if so, how often. This will tell you how fast your renter is working through the uploadHeap for repairs. Also, it should always have 250 chunks in it so if that number is not 250 then let the core team know so they can investigate. One edge case is if you are on the last cycle and have less than 250 chunks remaining, or there are just less than 250 chunks that need repair in general.
 
 ```go
-2019/07/29 18:16:12.598899 uploadheap.go:348: WARN: no chunk indicies gathered, can’t add chunks to heap
+2021/2/15 18:16:12.598899 uploadheap.go:348: WARN: no chunk indicies gathered, can’t add chunks to heap
 ```
 
 If this is coming up a lot, this could be an issue. Reach out to a core team member.
@@ -132,18 +132,18 @@ cat uplod/renter/uplofiles/.uplodir | python -m json.tool
 
 {
     "aggregatehealth": 0.75,
-    "aggregatelasthealthchecktime": "2019-08-05T18:10:19.088309123+02:00",
+    "aggregatelasthealthchecktime": "2021-2-15T18:10:19.088309123+02:00",
     "aggregateminredundancy": 1.5,
-    "aggregatemodtime": "2019-08-05T20:13:52.972312906+02:00",
+    "aggregatemodtime": "2021-2-15T20:13:52.972312906+02:00",
     "aggregatenumfiles": 63062,
     "aggregatenumstuckchunks": 0,
     "aggregatenumsubdirs": 0,
     "aggregatesize": 23044664385536,
     "aggregatestuckhealth": 0,
     "health": 0,
-    "lasthealthchecktime": "2019-08-05T20:40:08.755212828+02:00",
+    "lasthealthchecktime": "2021-2-15T20:40:08.755212828+02:00",
     "minredundancy": 0,
-    "modtime": "2019-08-05T20:40:08.755948025+02:00",
+    "modtime": "2021-2-15T20:40:08.755948025+02:00",
     "numfiles": 0,
     "numstuckchunks": 0,
     "numsubdirs": 10,

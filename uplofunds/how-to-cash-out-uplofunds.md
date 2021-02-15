@@ -14,11 +14,11 @@ Uplo automatically keeps track of how many UploCoins your UploFunds have accrued
 
 In any tab of Uplo-UI, click on the Terminal button at the top. It's the third button, and looks like a right-facing arrow in a box: `>`
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Type a single word command into the interface that pops up: `wallet`
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-2.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 You'll be presented with a recap of your wallet: how many UploCoins you have, how many UploFunds you have, and how many UploCoins your UploFunds have earned, listed as `UploFund Claims`.
 
@@ -28,7 +28,7 @@ Go to the Wallet tab of Uplo, and click **Receive.**
 
 Click **Generate New Address** to create a new Uplo address.
 
-![](../.gitbook/assets/address-2%20%282%29%20%281%29.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Copy and paste this manually, or use the `Copy` button to the right to make sure you get the full address without any extra spaces.
 
@@ -38,7 +38,7 @@ Now switch over to the Send section of your wallet.
 
 Enter the wallet address and the amount of UploFunds you want to send. Make sure that you've entered a Uplo wallet address you control, and that you've entered it correctly.
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-4.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 {% hint style="danger" %}
 UploFunds sent to mistyped addresses cannot be retrieved.
@@ -52,13 +52,13 @@ Next, you need to verify everything. You'll have a chance to double-check the cu
 
 Click **Back** to change something. If it's all good, click **Broadcast.**
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-5.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 ## Check the status
 
 You'll immediately get a confirmation.
 
-![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-6.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 And you'll see a small tag appear under your balance to let you know the transaction is on its way but hasn't yet appeared in a block.
 

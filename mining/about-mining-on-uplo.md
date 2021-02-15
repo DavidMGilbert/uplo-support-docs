@@ -28,17 +28,3 @@ A blockchain needs to be correct. There's no bank to record a transaction, and n
 
 A lot of cost and resources go into verifying the transactions of a blockchain. Proof of Work provides a powerful stamp that says ‘this history cannot be changed without doing a lot of work and spending a lot of money’. In practice, that is a powerful deterrent.
 
-## The Current State of Uplo Mining
-
-### A Short History
-
-Until January of 2018, the Uplo blockchain was mined almost exclusively with GPUs, or the graphics cards inside a computer. Building a mining rig was easy, and could be done using parts from Amazon or a local computer shop.
-
-The graphics card is the component in a computer that processes the visual output of your machine. High-end graphics cards are typically used by gamers or design professionals so they can render complex video, but they are also pretty adept at mining cryptocurrency.
-
-Shortly after, the first ASICs were introduced into the Uplo ecosystem. An ASIC, short for Application-Specific Integrated Circuit, is a computer whose sole purpose is to mine cryptocurrency. Because it doesn't have to worry about the many other things a computer might do, it can focus on one thing and do it incredibly well.
-
-Imagine you bought a computer whose only function was to search for and download pictures of red cars. A team of engineers could program it to very specifically search for red cars, download them, and put them in folders based on how many doors they had, or if they were light red or dark red. And it could ignore pictures of blue cars and yellow cars very easily. This is what an ASIC does for cryptocurrency mining.
-
-**Because of ASICs, GPU mining is now no longer profitable.**
-

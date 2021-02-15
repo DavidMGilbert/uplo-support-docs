@@ -19,11 +19,11 @@ Not meeting these requirements can have a range of effects: you may be unable to
 
 Open Uplo and click on the **Host** tab on the left. This is where you can configure your host settings. The first thing you do is tell Uplo where your storage folder is. This is a location on the storage device you want to use for hosting.
 
-![](../.gitbook/assets/hosting-1.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Click **Add a folder**, then select a location. You can choose a drive \(like D:\\) to use an entire empty drive or partition, or you can pick a specific folder on a drive. Uplo will create one large file in the location you select that allocates the amount of storage you choose.
 
-![](../.gitbook/assets/hosting-2.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Tell Uplo how much space you want to allocate to hosting, in megabytes. Entering a value lower than 32 GB will provide a warning since as a host you're graded on having a lot of available storage. Set at least 4 TB if you can. You can type in a value if you want to set a value higher than what the slider allows.
 
@@ -39,7 +39,7 @@ Here are some quick values you can use to get started:
 
 ## Host Settings
 
-![](../.gitbook/assets/hosting-3.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 {% tabs %}
 {% tab title="Max Duration" %}
@@ -79,7 +79,7 @@ This can only be changed in uploc, or using the Terminal in Uplo-UI with the com
 
 ## Announce your host
 
-![](../.gitbook/assets/hosting-4.png)
+![](../.gitbook/assets/coming-soon-01.png)
 
 Click the slider at the top of the Host window next to the Announce Host button so it appears green. This will turn on your host for accepting new storage contracts from renters. Then, unless you used DDNS in a previous step, click **Announce Host** to the Uplo network so that renters can find you.
 
@@ -134,9 +134,7 @@ What happens if your computer shuts down and you're not there to turn it back on
 
 Read [this page](../your-uplo-wallet/for-advanced-users/how-to-automatically-restart-and-unlock-uplo.md) to set it up.
 
-## Check host configuration \(Optional\)
-
-Once you are set up, you can be proactive about making sure everything is set up correctly. Use the [SiaCentral Host Troubleshooter](https://troubleshoot.uplocentral.com) to check your host configuration and make sure it can form contracts. Change your host address if necessary to your host's actual public IP or DDNS address.
+Once you are set up, you can be proactive about making sure everything is set up correctly. an online port forwarding tool to check your host configuration and make sure it can form contracts. Change your host address if necessary to your host's actual public IP or DDNS address.
 
 If SiaCentral discovers issues when connecting to your host, wait an hour or two and try again - the announcement can take a little while to reach the Uplo network.
 
@@ -166,51 +164,51 @@ A detailed itemization of earned coins and expected revenues, together with more
 ```go
 General Info:
     Connectability Status: Host appears to be working.
-    Version:               1.5.3
+    Version:               1.0.1
 
 Host Internal Settings:
     acceptingcontracts:   Yes
     maxdownloadbatchsize: 17.83 MB
     maxduration:          26 Weeks
     maxrevisebatchsize:   17.83 MB
-    netaddress:           xx.xxx.xxx.xx:9982 (automatically determined)
+    netaddress:           xx.xxx.xxx.xx:8482 (automatically determined)
     windowsize:           24 Hours
 
-    collateral:       150 SC / TB / Month
-    collateralbudget: 100 KS
+    collateral:       150 UPLO / TB / Month
+    collateralbudget: 100 KUPL
     maxcollateral:    5 KS Per Contract
 
-    minbaserpcprice:           100 nS
-    mincontractprice:          50 mS
-    mindownloadbandwidthprice: 25 SC / TB
-    minsectoraccessprice:      2 uS
-    minstorageprice:           50 SC / TB / Month
-    minuploadbandwidthprice:   1 SC / TB
+    minbaserpcprice:           100 nUPL
+    mincontractprice:          50 mUPL
+    mindownloadbandwidthprice: 25 UPLO / TB
+    minsectoraccessprice:      2 uUPL
+    minstorageprice:           50 UPLO / TB / Month
+    minuploadbandwidthprice:   1 UPLO / TB
 
     ephemeralaccountexpiry:     604800s
-    maxephemeralaccountbalance: 1 SC
-    maxephemeralaccountrisk:    5 SC
+    maxephemeralaccountbalance: 1 UPLO
+    maxephemeralaccountrisk:    5 UPLO
 
     registrysize:       0  B
     customregistrypath: 
 
 Host Financials:
     Contract Count:               1199
-    Transaction Fee Compensation: 426 SC
-    Potential Fee Compensation:   3.543 KS
+    Transaction Fee Compensation: 426 UPLO
+    Potential Fee Compensation:   3.543 KUPL
     Transaction Fee Expenses:     0 H
 
-    Storage Revenue:           193.2 SC
-    Potential Storage Revenue: 441.9 SC
+    Storage Revenue:           193.2 UPLO
+    Potential Storage Revenue: 441.9 UPLO
 
     Locked Collateral: 81.59 KS
     Risked Collateral: 1.385 KS
     Lost Collateral:   0 H
 
-    Download Revenue:           23.58 mS
-    Potential Download Revenue: 3.186 SC
-    Upload Revenue:             1.708 SC
-    Potential Upload Revenue:   12.04 SC
+    Download Revenue:           23.58 mUPL
+    Potential Download Revenue: 3.186 UPLO
+    Upload Revenue:             1.708 UPLO
+    Potential Upload Revenue:   12.04 UPLO
 
 RPC Stats:
     Error Calls:        6125
