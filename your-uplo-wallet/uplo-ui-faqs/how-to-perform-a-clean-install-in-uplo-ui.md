@@ -12,7 +12,7 @@ During a clean install, two primary things are deleted:
 But don’t worry, restoring your balance of UploCoins is easy as long as you have your original wallet seed.
 
 {% hint style="warning" %}
-Performing a clean install will remove all your renting and hosting info as well. So if you've uploaded data to Uplo or are hosting other's files, this will eliminate those contracts and should be used as a last resort. If you're not comfortable doing this, [contact support](mailto:hello@uplo.tech) or [visit our Discord](https://discord.gg/uplo) and we might be able to guide you through a specific fix.
+Performing a clean install will remove all your renting and hosting info as well. So if you've uploaded data to Uplo or are hosting other's files, this will eliminate those contracts and should be used as a last resort. If you're not comfortable doing this, [contact support](mailto:hello@uplo.tech) or [visit our Discord](https://discord.gg/b2s3P9Cy6F) and we might be able to guide you through a specific fix.
 {% endhint %}
 
 ## Your Uplo wallet seed

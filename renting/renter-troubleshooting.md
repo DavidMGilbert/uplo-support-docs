@@ -35,7 +35,7 @@ If you don’t have enough contracts, Uplo won’t be able to maintain your data
 Use the command `uploc renter`. This will print some info that you saw earlier, but also important allowance info.
 
 {% hint style="info" %}
-**Quick Tip:** Your allowance is the maximum amount of Siacions you’re willing to spend on storage. By setting this number, you’re making sure that you don’t end up spending way more over your contract period than you intended. If your allowance runs out, you can’t make new contracts and your data will eventually be removed from Uplo.
+**Quick Tip:** Your allowance is the maximum amount of Uplocions you’re willing to spend on storage. By setting this number, you’re making sure that you don’t end up spending way more over your contract period than you intended. If your allowance runs out, you can’t make new contracts and your data will eventually be removed from Uplo.
 {% endhint %}
 
 ```go

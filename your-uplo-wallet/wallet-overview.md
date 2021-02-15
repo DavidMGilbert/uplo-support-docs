@@ -38,7 +38,7 @@ The date and time the transaction was made.
 {% endtab %}
 
 {% tab title="TX Type" %}
-The type of transaction that took place. Possible values are UploCoin, Siafund, Contract, Proof, Revision, Block, Defrag, and Setup.
+The type of transaction that took place. Possible values are UploCoin, Uplofund, Contract, Proof, Revision, Block, Defrag, and Setup.
 {% endtab %}
 
 {% tab title="Status" %}
@@ -56,5 +56,5 @@ Near the upper right corner, you'll see a button that says `More`. Click on this
 
 ## Be careful
 
-There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your UploCoin is the official app downloaded from that link above or [our Github page.](https://github.com/uplo-tech/uplo-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/uplo), but we can't guarantee that any other software wallet will safely store your UploCoins.
+There are plenty of scams in the cryptocurrency space. Make sure the only software wallet you use to store your UploCoin is the official app downloaded from that link above or [our Github page.](https://github.com/uplo-tech/uplo-UI/tags) There are some other great recommendations you can get from [our community](https://discord.gg/b2s3P9Cy6F), but we can't guarantee that any other software wallet will safely store your UploCoins.
 

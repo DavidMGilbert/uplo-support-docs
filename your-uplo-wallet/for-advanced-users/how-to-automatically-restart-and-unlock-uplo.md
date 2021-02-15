@@ -6,7 +6,7 @@ You can have your Uplo wallet automatically unlock by setting up a few simple st
 
 ## Set the environment variable
 
-An environment variable is just a piece of information that is specific to your computer. In this case, it's your Uplo wallet password, so you'll set an environment variable named `SIA_WALLET_PASSWORD`.
+An environment variable is just a piece of information that is specific to your computer. In this case, it's your Uplo wallet password, so you'll set an environment variable named `UPLO_WALLET_PASSWORD`.
 
 [How do I set an environment variable?](how-to-set-an-environment-variable.md)
 

@@ -52,7 +52,7 @@ Host uptime is an incredibly important metric. You need to be online when people
 In general, you should plan for your hosting computer to be turned on and online 24/7. If you can't commit to this, you shouldn't try to host on the Uplo network.
 
 {% hint style="danger" %}
-Warning: If you go offline for too long \(less than 95% uptime\) or lose renter data \(by deleting it or experiencing a hardware failure\), you can lose money by losing your collateral for active contracts. You can also become responsible for SiaFund fees for each contract.
+Warning: If you go offline for too long \(less than 95% uptime\) or lose renter data \(by deleting it or experiencing a hardware failure\), you can lose money by losing your collateral for active contracts. You can also become responsible for UploFund fees for each contract.
 {% endhint %}
 
 Below are the exact amounts that your score will change based on your uptime percentage. Greater than 98% uptime results in no penalty, which is the 14 hours a month explained above \(2% of 720 hours in a month = 14 hours\).
@@ -135,7 +135,7 @@ Stay updated. Your host score drops if you're not running the latest version of 
 
 ## Third-Party Host Scoring
 
-We have an incredible community building on Uplo. Third-party sites can develop their own methods for scoring hosts based on various metrics. For example, SiaStats has developed a [Host Monitor](https://uplostats.info/hosts) which evaluates hosts on pricing relative to other hosts, and even evaluates host performance regularly by forming contracts with every host it can in order to test bandwidth and latency. SiaStats even has great visualization for each host to make judging their metrics easier.
+We have an incredible community building on Uplo. Third-party sites can develop their own methods for scoring hosts based on various metrics. For example, UploStats has developed a [Host Monitor](https://uplostats.info/hosts) which evaluates hosts on pricing relative to other hosts, and even evaluates host performance regularly by forming contracts with every host it can in order to test bandwidth and latency. UploStats even has great visualization for each host to make judging their metrics easier.
 
 These benchmarks are different from the core Uplo protocol, but are still useful, and may be used to help monitor and improve your own host over time.
 

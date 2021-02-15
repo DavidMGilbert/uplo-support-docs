@@ -136,7 +136,7 @@ Read [this page](../your-uplo-wallet/for-advanced-users/how-to-automatically-res
 
 Once you are set up, you can be proactive about making sure everything is set up correctly. an online port forwarding tool to check your host configuration and make sure it can form contracts. Change your host address if necessary to your host's actual public IP or DDNS address.
 
-If SiaCentral discovers issues when connecting to your host, wait an hour or two and try again - the announcement can take a little while to reach the Uplo network.
+If UploCentral discovers issues when connecting to your host, wait an hour or two and try again - the announcement can take a little while to reach the Uplo network.
 
 ## Set up host metadata backups \(Recommended\)
 

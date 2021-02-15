@@ -2,19 +2,19 @@
 
 Uplo is one of the best projects in the blockchain space. Uplo is open source, and we believe completely in the spirit of decentralization. As such, exchanges should strive to implement the best projects that will enhance their platforms with little involvement from the development team for that project.
 
-## Some background on UploCoin <a id="some-background-on-siacoin"></a>
+## Some background on UploCoin <a id="some-background-on-uplocoin"></a>
 
 UploCoins are used for buying and selling storage space on the Uplo network. We believe that UploCoin is a pure utility token. UploCoins are generated only through Proof of Work mining, and there is no limit on the number of UploCoins that will be issued
 
-## Download Uplo <a id="download-sia"></a>
+## Download Uplo <a id="download-uplo"></a>
 
 UploCoins are stored in an Uplo wallet. Our two official apps are Uplo-UI or uploc \(for command-line interfaces\). Only one instance of Uplo can run at a time, so you’ll need to install it on multiple machines or virtual environments if you’d like to run more than a single wallet.
 
 You can download the latest release [directly from Github,](https://github.com/uplo-tech/uplo) or [from our website](https://uplo.tech/get-started).
 
-Learn how to download and install Sia-UI.
+Learn how to download and install Uplo-UI.
 
-## Technical Specifications for Uplo <a id="technical-specifications-for-sia"></a>
+## Technical Specifications for Uplo <a id="technical-specifications-for-uplo"></a>
 
 * **CPU:** Uplo does not require special CPU considerations
 * **RAM:** 8 GB recommended
@@ -28,7 +28,7 @@ No special libraries are required for installation.
 
 ​[Uplo API docs](https://api.uplo.tech/)​
 
-## Setting up Uplo <a id="setting-up-sia"></a>
+## Setting up Uplo <a id="setting-up-uplo"></a>
 
 This is where you come in. Every platform is different, and your team can determine how best to integrate the UploCoin wallet. While we don’t provide dedicated technical support, our developers can provide assistance with your issues. See the "Point of contact" section at the bottom of the article.
 

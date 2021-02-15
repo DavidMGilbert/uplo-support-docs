@@ -1,8 +1,8 @@
 # My deposit or withdrawal didn't go through
 
-This could happen with transactions involving your wallet, an exchange like Bittrex or Poloniex, or mining pools like Luxor or Siamining.
+This could happen with transactions involving your wallet, an exchange like Bittrex or Poloniex, or mining pools like Luxor or Uplomining.
 
-The first thing you should do is see if the transaction was added to the Uplo blockchain. To do so, go to the [SiaStats Explorer](https://uplostats.info/navigator) and paste the transaction ID into the search box in the upper right corner.
+The first thing you should do is see if the transaction was added to the Uplo blockchain. To do so, go to the [UploStats Explorer](https://uplostats.info/navigator) and paste the transaction ID into the search box in the upper right corner.
 
 If your hash is not found in the database, then the transaction has not yet been added to the blockchain. it may need some time to confirm, or there may have been an issue with your transaction. Common issues include using an incorrect address or wallet downtime on the exchanges.
 
