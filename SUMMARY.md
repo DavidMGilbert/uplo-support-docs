@@ -69,7 +69,6 @@
 * [What are UploFunds?](uplofunds/what-are-uplofunds.md)
 * [How do I buy UploFunds?](uplofunds/how-do-i-buy-uplofunds.md)
 * [How to cash out UploFunds](uplofunds/how-to-cash-out-uplofunds.md)
-* [SEC Settlement FAQ](uplofunds/sec-settlement-faq.md)
 
 ## Uplo Integrations
 

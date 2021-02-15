@@ -23,7 +23,7 @@ The Uplo storage network uses a marketplace to find storage for your data. The c
 
 The price of storage is listed in UploCoins, the cryptocurrency used to buy and sell storage on the network. You'll need to \[get UploCoins\] in order to upload files. The price of a UploCoin can vary just like the price of any cryptocurrency. This is usually stable for periods of time, ut can sometimes have more significant shifts depending on the crypto trading markets.
 
-Fortunately, the price of UploCoin doesn't really affect the price of Uplo storage. Hosts set their own prices, which creates a marketplace where the best and most reliable hosts are competing for the storage contracts of those who want to upload data. Pricing on the network usually works out to around **$2 per TB per month.** Using Uplo becomes more cost-efficient as you upload more data and store it for longer periods of time.
+Fortunately, the price of UploCoin doesn't really affect the price of Uplo storage. Hosts set their own prices, which creates a marketplace where the best and most reliable hosts are competing for the storage contracts of those who want to upload data. Pricing on the network will take some time to stabalise but it is expected that it will usually work out to around **$2 per TB per month.** Using Uplo becomes more cost-efficient as you upload more data and store it for longer periods of time.
 
 UploCoins are utility tokens and their sole purpose is to fulfill contracts on the Uplo network.
 
@@ -39,7 +39,7 @@ Storage contracts last for three months by default and are automatically formed 
 
 As a renter, you pay for the cost of renting storage space. There are also some other fees that you're responsible for.
 
-* **Contract Formation Fees** – Creating storage contracts on the blockchain requires a transaction, and there are very small fees associated with this. Contract formation fees are one-time per contract, and usually cost only a handful of UploCoins \(a few cents\).
+* **Contract Formation Fees** – Creating storage contracts on the blockchain requires a transaction, and there are very small fees associated with this. Contract formation fees are one-time per contract, and usually cost only a handful of UploCoins.
 * **Bandwidth Fees** – You pay for the bandwidth you use when you upload or download files. This can also include wear and tear fees set by the host to help pay for their physical storage devices.
 
 Because contract formation fees only happen once, and your initial upload will consume a lot of bandwidth, using Uplo for longer periods of time results in lower average costs.

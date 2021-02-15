@@ -2,13 +2,13 @@
 
 As Uplo network usage increases, UploFunds will accrue UploCoins over time. [Learn more about UploFunds.](what-are-uplofunds.md)
 
-If you're a Siafund owner, you have the option of cashing out these accrued UploCoins at any point by sending your UploFunds to a Uplo address you own. This can be the same wallet the UploFunds are currently in, or a different wallet you control.
+If you're an UploFund owner, you have the option of cashing out these accrued UploCoins at any point by sending your UploFunds to an Uplo address you own. This can be the same wallet the UploFunds are currently in, or a different wallet you control.
 
 {% hint style="info" %}
 You **do not** lose the UploFunds in this process. You'll always retain control over them unless you send them to someone else or a bad address.
 {% endhint %}
 
-## How many UploCoins has my Siafund earned?
+## How many UploCoins has my UploFund earned?
 
 Uplo automatically keeps track of how many UploCoins your UploFunds have accrued, and we have an easy way to check that balance.
 
@@ -20,7 +20,7 @@ Type a single word command into the interface that pops up: `wallet`
 
 ![](https://github.com/DavidMGilbert/uplo-support-docs/tree/431ec4c4cb7b7fe1321203b069ebf4981995d762/.gitbook/assets/uplofunds-cashout-2.png)
 
-You'll be presented with a recap of your wallet: how many UploCoins you have, how many UploFunds you have, and how many UploCoins your UploFunds have earned, listed as `Siafund Claims`.
+You'll be presented with a recap of your wallet: how many UploCoins you have, how many UploFunds you have, and how many UploCoins your UploFunds have earned, listed as `UploFund Claims`.
 
 ## Generate a Uplo address
 
