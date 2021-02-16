@@ -49,9 +49,9 @@ The logo is similar, but is easily differentiated from the Uplo logo by both the
 
 ## Color
 
-Uplo uses a number of colors.
+Uplo uses two primary colours.
 
-![](../.gitbook/assets/coming-soon-01.png)
+![](../.gitbook/assets/colour-guideline-png-01.png)
 
 If you use the exact Uplo logo or wordmark in any way, like to represent the fact that you integrate with Uplo on your site, the image should either use our green or one of these grays. In other words, don't use our exact logo or wordmark and change the color to match your color scheme.
 
