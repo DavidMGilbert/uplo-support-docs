@@ -47,7 +47,7 @@ We hope to have a good example of this soon:
 
 ## Color
 
-Uplo uses two primary colours.
+Uplo uses two main colours.
 
 ![](../.gitbook/assets/colour-guideline-png-01.png)
 
