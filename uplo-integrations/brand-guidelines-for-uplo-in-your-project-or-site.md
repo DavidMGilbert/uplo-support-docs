@@ -14,9 +14,9 @@ In an effort to promote these goals, please use the following as guidelines when
 
 [Get them here](https://github.com/uplo-tech/brand-assets-official). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
 
-## `built with Uplo`
+\`\`
 
-![](../.gitbook/assets/coming-soon-01.png)
+![](../.gitbook/assets/built-logo-colour-3000px-trans-png-01.png)
 
 If you are building a project featuring Uplo, use the `built with Uplo` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
