@@ -29,7 +29,7 @@ You have a lot of freedom here. Feel free to use the word “Uplo” however you
 
 Current examples of good naming in the community are: UploStats, Uplosync, UploWiki, and Uplomining. You know it's about Uplo, and get a good idea of what specifically the project might focus on.
 
-Just remember, if you’re trying to make a play on words, we pronounce Uplo like “sigh-uh” and not “see-ya”.
+Just remember, if you’re trying to make a play on words, we pronounce Uplo like “up-low” and not “u-p-l-o”.
 
 You can also create a wonderfully custom name that represents you or your work. Some examples are projects like Pixeldrain, Filebase, and roadie.
 
@@ -41,7 +41,7 @@ We’re a little more strict on this one. We own the trademark in the US for bot
 
 We’d prefer that your project not use the Uplo logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
 
-A good example of this is UploStats:
+We hope to have a good example of this soon:
 
 ![](../.gitbook/assets/coming-soon-01.png)
 
