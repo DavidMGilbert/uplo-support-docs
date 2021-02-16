@@ -51,9 +51,9 @@ Uplo uses two primary colours.
 
 ![](../.gitbook/assets/colour-guideline-png-01.png)
 
-If you use the exact Uplo logo or wordmark in any way, like to represent the fact that you integrate with Uplo on your site, the image should either use our green or one of these grays. In other words, don't use our exact logo or wordmark and change the color to match your color scheme.
+If you use the exact Uplo logo or wordmark in any way, like to represent the fact that you integrate with Uplo on your site, the image should either use our blue or grey. Alternatively you can also use an all-white logo for contras on darker backgrounds. In other words, don't use our exact logo or wordmark and change the colour to match your color scheme.
 
-When designing your own logo, feel free to draw from our color palette or create your own.
+When designing your own logo, feel free to draw from our colour palette or create your own.
 
 We can't wait to see what you build! Be sure you let us know in [Discord](https://discord.gg/b2s3P9Cy6F).
 
